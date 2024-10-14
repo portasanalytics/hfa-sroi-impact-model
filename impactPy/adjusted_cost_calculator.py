@@ -41,6 +41,7 @@ def fetch_exchange_rate(currency_pair, date, max_attempts=4):
 
 def convert_cost_to_local_currency(df, currency_pair):
     def convert_cost(row):
+        
         if pd.isna(row['base_year']):
             return pd.Series([np.nan, np.nan], index=['cost_per_case', 'forex_rate'])
         
@@ -97,10 +98,10 @@ def save_to_csv(df, file_path):
     df.to_csv(file_path, index=False)
 
 def main():
-    input_file = 'data/health_data/input/cost_per_case.csv'
-    cpi_file = 'data/health_data/input/cpi.csv'
-    expenditure_file = 'data/health_data/input/predicted_healthcare_expenditure.xlsx'
-    output_file = 'data/cost_per_case_adjusted.csv'
+    input_file = 'data/inputs/cost_per_case.csv'
+    cpi_file = 'data/inputs/cpi.csv'
+    expenditure_file = 'data/inputs/predicted_healthcare_expenditure.xlsx'
+    output_file = 'data/inputs/cost_per_case_adjusted.csv'
     
     markets = {
         'Australia': 'GBPAUD=X', 'Canada': 'GBPCAD=X', 'Germany': 'GBPEUR=X', 'Ireland': 'GBPEUR=X',

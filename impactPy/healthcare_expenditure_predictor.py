@@ -28,7 +28,7 @@ from sklearn.linear_model import LinearRegression
 import os
 
 # Load the data
-input_file_path = 'data/health_data/input/healthcare_expenditure.xlsx'
+input_file_path = 'data/inputs/healthcare_expenditure.xlsx'
 df = pd.read_excel(input_file_path, sheet_name="normalised")
 
 def predict_next_years(country_data, years, n_years=3, mode="normal", weight_recent_years=3.0, num_recent_years=3):
