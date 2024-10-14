@@ -1,0 +1,54 @@
+﻿value,indicator,multiplier,geography,geography_level,source,source_year,updated_at
+67.6,population,1000000,United Kingdom,country,ONS,2022,
+57.1,population,1000000,England,country,ONS,2022,
+2.7,population,1000000,North East,region,ONS,2022,
+7.5,population,1000000,North West,region,ONS,2022,
+5.5,population,1000000,"Yorkshire and 
+The Humber",region,ONS,2022,
+4.9,population,1000000,East Midlands,region,ONS,2022,
+6,population,1000000,"West 
+Midlands",region,ONS,2022,
+6.4,population,1000000,East,region,ONS,2022,
+8.9,population,1000000,London,city,ONS,2022,
+9.4,population,1000000,South East,region,ONS,2022,
+5.8,population,1000000,South West,region,ONS,2022,
+3.1,population,1000000,Wales,country,ONS,2022,
+5.4,population,1000000,Scotland,country,ONS,2022,
+1.9,population,1000000,"Northern 
+Ireland",country,ONS,2022,
+2506170.00,gdp,1000000,United Kingdom,country,ONS,2022,
+2161593.00,gdp,1000000,England,country,ONS,2022,
+71763.00,gdp,1000000,North East,region,ONS,2022,
+247199.00,gdp,1000000,North West,region,ONS,2022,
+170304.00,gdp,1000000,"Yorkshire and 
+The Humber",region,ONS,2022,
+146482.00,gdp,1000000,East Midlands,region,ONS,2022,
+181354.00,gdp,1000000,"West 
+Midlands",region,ONS,2022,
+213828.00,gdp,1000000,East,region,ONS,2022,
+562179.00,gdp,1000000,London,city,ONS,2022,
+374453.00,gdp,1000000,South East,region,ONS,2022,
+194030.00,gdp,1000000,South West,region,ONS,2022,
+85412.00,gdp,1000000,Wales,country,ONS,2022,
+186851.00,gdp,1000000,Scotland,country,ONS,2022,
+56694.00,gdp,1000000,"Northern 
+Ireland",country,ONS,2022,
+36844.00,gdp_per_capita,1,United Kingdom,country,ONS,2022,
+37852.00,gdp_per_capita,1,England,country,ONS,2022,
+26747.00,gdp_per_capita,1,North East,region,ONS,2022,
+32889.00,gdp_per_capita,1,North West,region,ONS,2022,
+30734.00,gdp_per_capita,1,"Yorkshire and 
+The Humber",region,ONS,2022,
+29683.00,gdp_per_capita,1,East Midlands,region,ONS,2022,
+30117.00,gdp_per_capita,1,"West 
+Midlands",region,ONS,2022,
+33419.00,gdp_per_capita,1,East,region,ONS,2022,
+63407.00,gdp_per_capita,1,London,city,ONS,2022,
+39921.00,gdp_per_capita,1,South East,region,ONS,2022,
+33657.00,gdp_per_capita,1,South West,region,ONS,2022,
+27274.00,gdp_per_capita,1,Wales,country,ONS,2022,
+34299.00,gdp_per_capita,1,Scotland,country,ONS,2022,
+29674.00,gdp_per_capita,1,"Northern 
+Ireland",country,ONS,2022,
+15.50,value_volunteer_hour_sports,1,London,city,"ONS ASHE, hourly wages, Culture Media and Sports occupations",2023,
+14.35,value_volunteer_hour_sports,1,United Kingdom,country,"ONS ASHE, hourly wages, Culture Media and Sports occupations",2023,

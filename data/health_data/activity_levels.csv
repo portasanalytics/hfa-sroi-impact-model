@@ -1,0 +1,7 @@
+﻿age_group,gender,geography,geography_level,activity_level,activity_rate,source,source_year,updated_at
+age 5-18,male,england,country,active,0.508,Active Lives,2023,
+age 5-18,female,england,country,active,0.44,Active Lives,2023,
+adult,male,england,country,active,0.6564,Active Lives,2022,
+adult,female,england,country,active,0.608,Active Lives,2022,
+adult,male,england,country,fairly active,0.1022,Active Lives,2022,
+adult,female,england,country,fairly active,0.1207,Active Lives,2022,
