@@ -1,3 +1,19 @@
+
+
+"""
+This script processes survey and activity data to create scenario breakdowns for the SROI model
+across different gender, age group, and income level cuts per market.
+
+- Loads and merges survey and activity data.
+- Maps demographic variables (gender, age group, market, and income levels).
+- Calculates summaries for customer activity and spending behavior, grouped by gender, age group, and income levels.
+- Computes weighted averages and medians to produce the final reports.
+- Results are saved in separate Excel files for different demographic segments.
+
+"""
+
+
+
 import pandas as pd
 import numpy as np
 

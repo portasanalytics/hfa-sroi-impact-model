@@ -1,3 +1,12 @@
+"""
+This script calculates health outcomes (cases, deaths, DALYs saved) and cost savings resulting from increased physical activity. 
+It uses activity levels, population risk, and relative risk data to estimate the impact of additional active or fairly active adults. 
+Functions include reading health data, adjusting risk rates, and calculating cases saved across health conditions. 
+Results can be segmented by gender, geography, and activity level. Currently uses gender cut.
+"""
+
+
+
 from health_functions import find_health_outcomes
 import pandas as pd
 
