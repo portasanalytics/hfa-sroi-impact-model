@@ -73,11 +73,11 @@ This repository contains scripts that calculate the Social Return on Investment 
    - Uses previous studies to calculate market penetration levels, segmented by gender, income, and age.
 
 2. **Healthcare Expenditure Predictor**:
-   - Predicts healthcare expenditure for two markets using the UK as the baseline.
+   - Predicts healthcare expenditure for 10 markets using the UK as the baseline.
 
 3. **Adjusted Cost Calculator**:
    - Converts UK healthcare costs to updated costs for 10 other markets.
-   - Uses inflation rates and healthcare expenditure data to adjust for local conditions.
+   - Uses inflation rates and healthcare expenditure data to adjust for specific markets and time.
    - **Output**: Differentiated healthcare costs across markets are saved in Excel files.
 
 ---
