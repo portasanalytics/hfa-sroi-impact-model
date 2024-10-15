@@ -78,7 +78,7 @@ This repository contains scripts that calculate the Social Return on Investment 
 3. **Adjusted Cost Calculator**:
    - Converts UK healthcare costs to updated costs for 10 other markets.
    - Uses inflation rates and healthcare expenditure data to adjust for specific markets and time.
-   - **Output**: Differentiated healthcare costs across markets are saved in Excel files.
+   - **Output**: Healthcare costs across markets are saved as cost_per_case_adjusted.
 
 ---
 
