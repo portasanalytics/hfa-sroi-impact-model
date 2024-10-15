@@ -17,5 +17,5 @@ breast cancer,1216.103217,100000,global,global,adult,female,Global Burden of Dis
 endometrial uterine cancer,150.9289209,100000,global,global,adult,female,Global Burden of Disease,,
 breast cancer,0,100000,global,global,adult,male,,,
 endometrial uterine cancer,0,100000,global,global,adult,female,,,
-osteoporosis,0,100000,global,global,adult,male,,,
-osteoporosis,0,100000,global,global,adult,female,,,
+osteoporosis,212,100000,global,global,adult,male,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165055/,,
+osteoporosis,198,100000,global,global,adult,female,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9165055/,,
