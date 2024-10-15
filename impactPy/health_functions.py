@@ -305,9 +305,9 @@ def find_health_outcomes(additional_active,
         a_d, b_d, c_d = calculate_adjusted_risk_rates(pop_deaths_df['population_rate'][0]/pop_deaths_df['rate_per'][0], activity_df['activity_rate'][0], risks_df['relative_risk'][0],
                                                             fairly_activity_df['activity_rate'][0], fairly_risks_df['relative_risk'][0])
 
-        cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='england', source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
+        cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='USA (United States of America)', source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
 
-        indirect_cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='england', direct=False, source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
+        indirect_cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='USA (United States of America)', direct=False, source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
 
         cases_saved, fairly_cases_saved = calculate_cases_saved(a, c, affected_pop), calculate_cases_saved(b, c, fairly_affected_pop)
 
