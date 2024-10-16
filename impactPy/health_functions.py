@@ -240,7 +240,8 @@ def find_health_outcomes(additional_active,
                                         'alzheimer and other dementia',
                                         'osteoporosis'],
                         youth_health_list = ['anxiety', 'depression', 'obesity'],
-                        gender = 'female'):
+                        gender = 'female',
+                        geography = 'global'):
     
     """
     Calculates adult and youth health outcomes for a group of newly active children.
@@ -305,9 +306,9 @@ def find_health_outcomes(additional_active,
         a_d, b_d, c_d = calculate_adjusted_risk_rates(pop_deaths_df['population_rate'][0]/pop_deaths_df['rate_per'][0], activity_df['activity_rate'][0], risks_df['relative_risk'][0],
                                                             fairly_activity_df['activity_rate'][0], fairly_risks_df['relative_risk'][0])
 
-        cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='USA (United States of America)', source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
+        cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography=geography, source = 'data/health_data/cost_per_case_adjusted.csv', local = True)
 
-        indirect_cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography='USA (United States of America)', direct=False, source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
+        indirect_cost_per_case = read_cost_per_case(factor=h, age_group='adult', gender='all', geography=geography, direct=False, source = 'data/health_data/cost_per_case_adjusted.csv', local = True)
 
         cases_saved, fairly_cases_saved = calculate_cases_saved(a, c, affected_pop), calculate_cases_saved(b, c, fairly_affected_pop)
 
@@ -321,11 +322,11 @@ def find_health_outcomes(additional_active,
                             'active_cases_saved': cases_saved,
                             'active_dalys_saved': dalys_saved,
                             'active_deaths_saved': deaths_saved,
-                            'direct_cost_per_case' : cost_per_case['cost_per_case'][0],
-                            'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case['cost_per_case'][0],
-                            'indirect_cost_per_case' : indirect_cost_per_case['cost_per_case'][0],
-                            'indirect_cost_saving' : (fairly_cases_saved + cases_saved) *  indirect_cost_per_case['cost_per_case'][0],
-                            'total_saving' : (fairly_cases_saved + cases_saved) * (cost_per_case['cost_per_case'][0] + indirect_cost_per_case['cost_per_case'][0])
+                            'direct_cost_per_case' : cost_per_case.iloc[0,11],
+                            'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case.iloc[0,11],
+                            'indirect_cost_per_case' : indirect_cost_per_case.iloc[0,11],
+                            'indirect_cost_saving' : (fairly_cases_saved + cases_saved) *  indirect_cost_per_case.iloc[0,11],
+                            'total_saving' : (fairly_cases_saved + cases_saved) * (cost_per_case.iloc[0,11] + indirect_cost_per_case.iloc[0,11])
                             }
 
         cases_saved_list.append(cases_saved_dict)
@@ -353,7 +354,7 @@ def find_health_outcomes(additional_active,
                                                 risks_df['relative_risk'][0]
                                                 )
             
-            cost_per_case = read_cost_per_case(factor=yh, age_group='youth', gender='all', geography='england', source = 'data/inputs/cost_per_case_adjusted.csv', local = True)
+            cost_per_case = read_cost_per_case(factor=yh, age_group='youth', gender='all', geography='America', source = 'data/health_data/cost_per_case_adjusted.csv', local = True)
 
             cases_saved = calculate_cases_saved(a, c, additional_active)
 
@@ -361,8 +362,8 @@ def find_health_outcomes(additional_active,
                                 'risk_active': a,
                                 'risk_inactive': c, 
                                 'active_cases_saved': cases_saved,
-                                'direct_cost_per_case' : cost_per_case['cost_per_case'][0],
-                                'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case['cost_per_case'][0]
+                                'direct_cost_per_case' : cost_per_case['adjusted_cost_with_healthcare_expenditure'][0],
+                                'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case['adjusted_cost_with_healthcare_expenditure'][0]
                                 }
 
             youth_cases_saved_list.append(youth_cases_saved_dict)
