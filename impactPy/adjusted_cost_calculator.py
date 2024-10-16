@@ -1,9 +1,20 @@
 """
-This Python script processes healthcare cost data for various global markets, 
-adjusting costs based on inflation and currency exchange rates. 
-The script requires three main inputs: healthcare cost per case data (.csv), 
-CPI data for inflation adjustment (.csv), 
-and predicted normalised healthcare expenditure data (.xlsx) - PPP, with UK as baseline)
+Methodology for Health Cost Data Processing:
+
+1. Data Loading:
+   - Load cost per case, CPI, and healthcare expenditure data
+
+2. Currency Conversion:
+   - Convert costs from GBP to local currencies
+
+3. Inflation Adjustment:
+   - Adjust costs for inflation from base year to 2024
+
+4. Healthcare Expenditure Adjustment:
+   - Further adjust costs based on 2024 healthcare spending predictions
+
+5. Data Consolidation:
+   - Process and combine data for multiple markets
 """
 
 
@@ -59,7 +70,7 @@ def calculate_inflated_costs(df, cpi_data):
         if pd.isna(row['base_year']):
             return pd.Series([np.nan, np.nan], index=['cost_inflated', 'inflation_rate'])
         
-        inflation_factor = get_inflation_adjustment(cpi_data, row['Country'], int(row['base_year']))
+        inflation_factor = get_inflation_adjustment(cpi_data, row['geography'], int(row['base_year']))
         if pd.isna(inflation_factor):
             return pd.Series([np.nan, np.nan], index=['cost_inflated', 'inflation_rate'])
         cost_inflated = row['cost_per_case'] * inflation_factor
@@ -75,7 +86,7 @@ def process_market_data(df, markets, cpi_data, healthcare_expenditure):
         market_df = market_df[(market_df['age_group'] == 'adult') & (market_df['category'] == 'health')]
 
         market_df[['cost_per_case', 'forex_rate']] = convert_cost_to_local_currency(market_df, currency_pair)
-        market_df['Country'] = market
+        market_df['geography'] = market
         market_df[['cost_inflated', 'inflation_rate']] = calculate_inflated_costs(market_df, cpi_data)
 
         # Ensure 'Country Name' is correctly matched, and the healthcare expenditure for 2024 is accessed
@@ -87,7 +98,7 @@ def process_market_data(df, markets, cpi_data, healthcare_expenditure):
         # Add adjusted cost based on 2024 healthcare expenditure
         market_df['adjusted_cost_with_healthcare_expenditure'] = market_df['cost_inflated'] * healthcare_expenditure_2024
         
-        consolidated_data.append(market_df[['Country', 'factor', 'age_group', 'gender', 'direct', 
+        consolidated_data.append(market_df[['geography', 'factor', 'age_group', 'gender', 'direct', 
                                             'cost_per_case', 'cost_inflated', 'forex_rate', 'inflation_rate', 
                                             'adjusted_cost_with_healthcare_expenditure', 'base_year']])
 
@@ -101,7 +112,7 @@ def main():
     input_file = 'data/inputs/cost_per_case.csv'
     cpi_file = 'data/inputs/cpi.csv'
     expenditure_file = 'data/inputs/predicted_healthcare_expenditure.xlsx'
-    output_file = 'data/inputs/cost_per_case_adjusted.csv'
+    output_file = 'data/health_data/cost_per_case_adjusted.csv'
     
     markets = {
         'Australia': 'GBPAUD=X', 'Canada': 'GBPCAD=X', 'Germany': 'GBPEUR=X', 'Ireland': 'GBPEUR=X',
