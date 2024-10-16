@@ -6,7 +6,6 @@ Results can be segmented by gender, geography, and activity level. Currently use
 """
 
 
-
 from health_functions import find_health_outcomes
 import pandas as pd
 
@@ -16,8 +15,27 @@ df = pd.read_excel('data/outputs/elasticity_scenarios_gender.xlsx')
 # Select only the required columns
 df = df[['scenario_id', 'gender', 'newly_active_customers']]
 
-# Manually specify the market code here
-code = "USA"
+
+country_map = {
+    "SIN": "Singapore",
+    "SPA": "Spain",
+    "NEW": "New Zealand",
+    "JAP": "Japan",
+    "CAN": "Canada",
+    "AUS": "Australia",
+    "GER": "Germany",
+    "IRE": "Ireland",
+    "USA": "America",
+}
+
+
+def get_country_by_code(code):
+    return country_map.get(code.upper(), "Country code not found")
+
+# Input country code to get for each specific market
+
+code = input("Enter the country code: ")
+geography = get_country_by_code(code)
 
 # Filter data for the specified market
 market_df = df[df['scenario_id'].str.startswith(code)]
@@ -36,7 +54,8 @@ for index, row in market_df.iterrows():
         additional_active=newly_active,
         additional_fairly_active=newly_fairly_active,
         youth=False, 
-        gender=gender
+        gender=gender,
+        geography = geography
     )
 
     # Add scenario_id, gender, and newly_active_customers to the results
