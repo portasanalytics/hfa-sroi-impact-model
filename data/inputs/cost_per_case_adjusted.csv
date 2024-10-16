@@ -1,4 +1,4 @@
-Country,factor,age_group,gender,direct,cost_per_case,cost_inflated,forex_rate,inflation_rate,adjusted_cost_with_healthcare_expenditure,base_year
+geography,factor,age_group,gender,direct,cost_per_case,cost_inflated,forex_rate,inflation_rate,adjusted_cost_with_healthcare_expenditure,base_year
 Australia,coronary heart disease,adult,all,True,4028.336583419081,5148.555412325676,1.788699984550476,1.278084714548803,7001.57117410933,2016.0
 Australia,stroke,adult,all,True,3685.1901877061673,4620.635935443686,1.6928900480270386,1.2538392050587173,6283.6482820415995,2017.0
 Australia,diabetes (type 2),adult,all,True,2503.378467953205,3460.8459297998493,1.5313899517059326,1.3824701195219125,4706.43843943297,2012.0
