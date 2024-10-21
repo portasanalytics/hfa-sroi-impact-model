@@ -93,14 +93,20 @@ def process_market_data(df, markets, cpi_data, healthcare_expenditure):
         try:
             healthcare_expenditure_2024 = healthcare_expenditure.loc[healthcare_expenditure['Country Name'] == market, '2024'].values[0]
         except IndexError:
-            healthcare_expenditure_2024 = np.nan  # Handle missing data gracefully
+            healthcare_expenditure_2024 = np.nan 
         
-        # Add adjusted cost based on 2024 healthcare expenditure
-        market_df['adjusted_cost_with_healthcare_expenditure'] = market_df['cost_inflated'] * healthcare_expenditure_2024
+
+        market_df['cost_per_case_uk'] = market_df['cost_per_case_unflated']
+        market_df['cost_per_case_local'] = market_df['cost_per_case']
+
+
+        market_df['healthcare_expenditure_factor'] = healthcare_expenditure_2024
+
+        market_df['cost_per_case_adjusted'] = market_df['cost_inflated'] * healthcare_expenditure_2024
         
-        consolidated_data.append(market_df[['geography', 'factor', 'age_group', 'gender', 'direct', 
-                                            'cost_per_case', 'cost_inflated', 'forex_rate', 'inflation_rate', 
-                                            'adjusted_cost_with_healthcare_expenditure', 'base_year']])
+        consolidated_data.append(market_df[['geography','factor','age_group','gender','direct','cost_per_case_uk',
+                                            'forex_rate','cost_per_case_local','healthcare_expenditure_factor',
+                                            'cost_per_case_adjusted']])
 
     return pd.concat(consolidated_data, ignore_index=True)
 

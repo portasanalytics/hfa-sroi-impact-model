@@ -245,7 +245,7 @@ def process_market_data(final_results, mode, market_data):
 
 def main():
     # File paths
-    file_path = 'data/survey_data/Elasticity_Questionnaire_Latest.xlsx'
+    file_path = 'data/survey_data/Elasticity_Questionnaire_v3.xlsx'
     sheet_name = 'Data'
     
     # Load and preprocess data

@@ -9,7 +9,7 @@ It is measured using two survey questions related to life satisfaction (S6) and 
 import pandas as pd
 
 # Load data
-df = pd.read_excel('data/survey_data/Elasticity_Questionnaire_latest.xlsx', sheet_name='Data')
+df = pd.read_excel('data/survey_data/Elasticity_Questionnaire_v3.xlsx', sheet_name='Data')
 
 # Mapping for gender
 gender_mapping = {

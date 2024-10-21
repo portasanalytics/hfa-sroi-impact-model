@@ -12,8 +12,8 @@ total mins = frequency x duration x intensity
 import pandas as pd
 import numpy as np
 
-# Load the data
-file_path = 'data/survey_data/Elasticity_Questionnaire_Latest.xlsx'
+# Load the data (updated survey data)
+file_path = 'data/survey_data/Elasticity_Questionnaire_v3.xlsx'
 sheet_name = 'Data'
 df = pd.read_excel(file_path, sheet_name=sheet_name)
 

@@ -19,7 +19,7 @@ import numpy as np
 
 # Load Data
 def load_data():
-    survey_df = pd.read_excel('data/survey_data/Elasticity_Questionnaire_Latest.xlsx', sheet_name='Data')
+    survey_df = pd.read_excel('data/survey_data/Elasticity_Questionnaire_v3.xlsx', sheet_name='Data')
     activity_df = pd.read_excel('data/outputs/activity_output.xlsx')
     return pd.merge(survey_df, activity_df, on=['S1', 'dSEGMENT', 'uuid'], how='left')
 
