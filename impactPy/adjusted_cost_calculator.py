@@ -56,7 +56,8 @@ def convert_cost_to_local_currency(df, currency_pair):
         if pd.isna(row['base_year']):
             return pd.Series([np.nan, np.nan], index=['cost_per_case', 'forex_rate'])
         
-        base_date = datetime(int(row['base_year']), 7, 1)
+        # 16 - 10 - 2024 (latest rates)
+        base_date = datetime(int(row['base_year']), 10, 16)
         exchange_rate = fetch_exchange_rate(currency_pair, base_date)
         if exchange_rate is not None:
             local_cost = row['cost_per_case_unflated'] * exchange_rate
