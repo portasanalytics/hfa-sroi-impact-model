@@ -1,227 +1,227 @@
-﻿factor,population_rate,rate_per,geography,geography_level,age_group,gender,category,source,source_year,updated_at
-colon cancer,184.7921839,100000,America,country,adult,male,health,WHO,2022,
-colon cancer,145.2157369,100000,America,country,adult,female,health,WHO,2022,
-breast cancer,706.1,100000,America,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,America,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,166.4,100000,America,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,America,country,adult,male,health,WHO,2022,
-coronary heart disease,3750.40444,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,2351.775878,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1690.43501,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1799.169999,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),7296.485568,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),6472.165837,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,America,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,America,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,America,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,America,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,America,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,America,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,America,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,America,country,adult,female,health,Global Burden of Disease,,
-colon cancer,247.5061542,100000,Australia,country,adult,male,health,WHO,2022,
-colon cancer,194.498426,100000,Australia,country,adult,female,health,WHO,2022,
-breast cancer,740.8,100000,Australia,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Australia,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,109.2,100000,Australia,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,Australia,country,adult,male,health,WHO,2022,
-coronary heart disease,2972.69155,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,1864.093463,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,496.3938363,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,528.32371,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),5429.344724,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),4815.965066,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Australia,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Australia,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Australia,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Australia,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Australia,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Australia,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Australia,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Australia,country,adult,female,health,Global Burden of Disease,,
-colon cancer,231,100000,Canada,country,adult,male,health,WHO,2022,
-colon cancer,181.2683425,100000,Canada,country,adult,female,health,WHO,2022,
-breast cancer,714.4,100000,Canada,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Canada,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,0,100000,Canada,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,173.5,100000,Canada,country,adult,female,health,WHO,2022,
-coronary heart disease,4577.601658,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,2870.488625,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1137.233746,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1210.384795,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),6060.761599,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),5376.047677,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Canada,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Canada,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Canada,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Canada,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Canada,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Canada,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Canada,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Canada,country,adult,female,health,Global Burden of Disease,,
-colon cancer,269.8545569,100000,Germany,country,adult,male,health,WHO,2022,
-colon cancer,212.06053,100000,Germany,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Germany,country,adult,male,health,WHO,2022,
-breast cancer,739.8,100000,Germany,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,113.3,100000,Germany,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,Germany,country,adult,male,health,WHO,2022,
-coronary heart disease,4167.295616,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,2613.196927,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1556.951149,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1657.099965,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),9164.04209,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),8128.735359,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Germany,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Germany,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Germany,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Germany,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Germany,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Germany,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Germany,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Germany,country,adult,female,health,Global Burden of Disease,,
-coronary heart disease,5492.672473,100000,global,global,adult,male,health,Global Burden of Disease,,
-coronary heart disease,3444.30443,100000,global,global,adult,female,health,Global Burden of Disease,,
-stroke,1811.736896,100000,global,global,adult,male,health,Global Burden of Disease,,
-stroke,1928.274468,100000,global,global,adult,female,health,Global Burden of Disease,,
-diabetes (type 2),12035.46066,100000,global,global,adult,male,health,Global Burden of Disease,,
-diabetes (type 2),10675.75569,100000,global,global,adult,female,health,Global Burden of Disease,,
-colon cancer,435.4828693,100000,global,global,adult,male,health,Global Burden of Disease,,
-colon cancer,342.2166698,100000,global,global,adult,female,health,Global Burden of Disease,,
-alzheimer and other dementia,1749.257827,100000,global,global,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,global,global,adult,female,health,Global Burden of Disease,,
-depression,4183.999746,100000,global,global,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,global,global,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,global,global,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,global,global,adult,female,health,Global Burden of Disease,,
-breast cancer,2041.96452,100000,global,global,adult,female,health,Global Burden of Disease,,
-endometrial uterine cancer,334.172091,100000,global,global,adult,female,health,Global Burden of Disease,,
-breast cancer,0,100000,global,global,adult,male,health,,,
-endometrial uterine cancer,0,100000,global,global,adult,male,health,,,
-osteoporosis,6744.390651,100000,global,global,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,global,global,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-anxiety,5.4,100,global,global,youth,male,health,NHS mental health survey CYP 2017,2017,
-anxiety,9.1,100,global,global,youth,female,health,NHS mental health survey CYP 2017,2017,
-depression,1.4,100,global,global,youth,male,health,NHS mental health survey CYP 2017,2017,
-depression,2.8,100,global,global,youth,female,health,NHS mental health survey CYP 2017,2017,
-obesity,19.89563384,100,global,global,youth,male,health,HSE 2018,2018,
-obesity,16.53984283,100,global,global,youth,female,health,HSE 2018,2018,
-colon cancer,236.8112421,100000,Ireland,country,adult,male,health,WHO,2022,
-colon cancer,186.094017,100000,Ireland,country,adult,female,health,WHO,2022,
-breast cancer,661.1,100000,Ireland,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Ireland,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,0,100000,Ireland,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,119,100000,Ireland,country,adult,female,health,WHO,2022,
-coronary heart disease,2079.530508,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,1304.016667,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,626.6458399,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,666.9539981,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),5632.446719,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),4996.121668,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Ireland,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Ireland,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Ireland,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Ireland,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Ireland,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Ireland,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Ireland,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Ireland,country,adult,female,health,Global Burden of Disease,,
-colon cancer,407.0483845,100000,Japan,country,adult,male,health,WHO,2022,
-colon cancer,319.8719225,100000,Japan,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Japan,country,adult,male,health,WHO,2022,
-breast cancer,606.1,100000,Japan,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,Japan,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,117.6,100000,Japan,country,adult,female,health,WHO,2022,
-coronary heart disease,4752.070967,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,2979.893515,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1389.580229,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1478.963133,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),8902.286021,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),7896.551144,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Japan,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Japan,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Japan,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Japan,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Japan,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Japan,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Japan,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Japan,country,adult,female,health,Global Burden of Disease,,
-colon cancer,38.99594847,100000,KSA,country,adult,male,health,WHO,2022,
-colon cancer,30.64429076,100000,KSA,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,KSA,country,adult,male,health,WHO,2022,
-breast cancer,105,100000,KSA,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,KSA,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,24.7,100000,KSA,country,adult,female,health,WHO,2022,
-coronary heart disease,639.0623225,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,400.7384772,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,29.8636862,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,31.78462816,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),10671.67191,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),9466.040856,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,KSA,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,KSA,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,KSA,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,KSA,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,KSA,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,KSA,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,KSA,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,KSA,country,adult,female,health,Global Burden of Disease,,
-colon cancer,344.6367763,100000,New Zealand,country,adult,male,health,WHO,2022,
-colon cancer,270.8268412,100000,New Zealand,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,New Zealand,country,adult,male,health,WHO,2022,
-breast cancer,639.7,100000,New Zealand,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,New Zealand,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,97.6,100000,New Zealand,country,adult,female,health,WHO,2022,
-coronary heart disease,2512.025357,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,1575.222282,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,371.5616165,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,395.4618245,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),5372.570441,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),4765.60483,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,New Zealand,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,New Zealand,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,
-colon cancer,262.0227919,100000,Singapore,country,adult,male,health,WHO,2022,
-colon cancer,205.9060725,100000,Singapore,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Singapore,country,adult,male,health,WHO,2022,
-breast cancer,574.6,100000,Singapore,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,Singapore,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,135,100000,Singapore,country,adult,female,health,WHO,2022,
-coronary heart disease,1664.881623,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,1044.001654,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,520.4771449,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,553.9561467,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),10176.07159,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),9026.430911,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Singapore,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Singapore,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Singapore,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Singapore,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Singapore,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Singapore,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Singapore,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Singapore,country,adult,female,health,Global Burden of Disease,,
-colon cancer,301.6905346,100000,Spain,country,adult,male,health,WHO,2022,
-colon cancer,237.0782816,100000,Spain,country,adult,female,health,WHO,2022,
-breast cancer,0,100000,Spain,country,adult,male,health,WHO,2022,
-breast cancer,629.2,100000,Spain,country,adult,female,health,WHO,2022,
-endometrial uterine cancer,0,100000,Spain,country,adult,male,health,WHO,2022,
-endometrial uterine cancer,113.6,100000,Spain,country,adult,female,health,WHO,2022,
-coronary heart disease,4454.681291,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-coronary heart disease,2793.40861,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,939.5850026,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-stroke,1000.022561,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),17278.17724,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-diabetes (type 2),15326.17691,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,
-depression,4183.999746,100000,Spain,country,adult,male,health,Global Burden of Disease,,
-depression,6624.144157,100000,Spain,country,adult,female,health,Global Burden of Disease,,
-anxiety,3408.893726,100000,Spain,country,adult,male,health,Global Burden of Disease,,
-anxiety,6135.047012,100000,Spain,country,adult,female,health,Global Burden of Disease,,
-osteoporosis,6744.390651,100000,Spain,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-osteoporosis,22146.20221,100000,Spain,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,
-alzheimer and other dementia,1749.257827,100000,Spain,country,adult,male,health,Global Burden of Disease,,
-alzheimer and other dementia,2341.293888,100000,Spain,country,adult,female,health,Global Burden of Disease,,
+﻿factor,population_rate,rate_per,geography,geography_level,age_group,gender,category,source,source_year,raw
+colon cancer,184.7921839,100000,America,country,adult,male,health,WHO,2022,184.7921839
+colon cancer,145.2157369,100000,America,country,adult,female,health,WHO,2022,145.2157369
+breast cancer,706.1,100000,America,country,adult,female,health,WHO,2022,706.1
+breast cancer,0,100000,America,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,166.4,100000,America,country,adult,female,health,WHO,2022,166.4
+endometrial uterine cancer,0,100000,America,country,adult,male,health,WHO,2022,0
+coronary heart disease,3750.40444,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,3750.40444
+coronary heart disease,2351.775878,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2351.775878
+stroke,1690.43501,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1690.43501
+stroke,1799.169999,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1799.169999
+diabetes (type 2),7296.485568,100000,America,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,7296.485568
+diabetes (type 2),6472.165837,100000,America,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,6472.165837
+depression,3242.935503,100000,America,country,adult,male,health,": GBD 2019 Mental Disorders Collaborators. Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Psychiatry 2022; published online Jan 10. https://doi.org/10.1016/S2215-0366(21)00395-3.",,4183.999746
+depression,8128.577723,100000,America,country,adult,female,health,": GBD 2019 Mental Disorders Collaborators. Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Psychiatry 2022; published online Jan 10. https://doi.org/10.1016/S2215-0366(21)00395-3.",,6624.144157
+anxiety,2438.550075,100000,America,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7898.425825,100000,America,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,America,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,America,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,America,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,America,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,247.5061542,100000,Australia,country,adult,male,health,WHO,2022,247.5061542
+colon cancer,194.498426,100000,Australia,country,adult,female,health,WHO,2022,194.498426
+breast cancer,740.8,100000,Australia,country,adult,female,health,WHO,2022,740.8
+breast cancer,0,100000,Australia,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,109.2,100000,Australia,country,adult,female,health,WHO,2022,109.2
+endometrial uterine cancer,0,100000,Australia,country,adult,male,health,WHO,2022,0
+coronary heart disease,2972.69155,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2972.69155
+coronary heart disease,1864.093463,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1864.093463
+stroke,496.3938363,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,496.3938363
+stroke,528.32371,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,528.32371
+diabetes (type 2),5429.344724,100000,Australia,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,5429.344724
+diabetes (type 2),4815.965066,100000,Australia,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4815.965066
+depression,3233.809685,100000,Australia,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8105.703273,100000,Australia,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2429.871963,100000,Australia,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7870.317388,100000,Australia,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Australia,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Australia,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Australia,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Australia,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,231,100000,Canada,country,adult,male,health,WHO,2022,231
+colon cancer,181.2683425,100000,Canada,country,adult,female,health,WHO,2022,181.2683425
+breast cancer,714.4,100000,Canada,country,adult,female,health,WHO,2022,714.4
+breast cancer,0,100000,Canada,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,0,100000,Canada,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,173.5,100000,Canada,country,adult,female,health,WHO,2022,173.5
+coronary heart disease,4577.601658,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4577.601658
+coronary heart disease,2870.488625,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2870.488625
+stroke,1137.233746,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1137.233746
+stroke,1210.384795,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1210.384795
+diabetes (type 2),6060.761599,100000,Canada,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,6060.761599
+diabetes (type 2),5376.047677,100000,Canada,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,5376.047677
+depression,3234.375026,100000,Canada,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8107.120373,100000,Canada,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2430.409193,100000,Canada,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7872.057521,100000,Canada,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Canada,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Canada,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Canada,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Canada,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,269.8545569,100000,Germany,country,adult,male,health,WHO,2022,269.8545569
+colon cancer,212.06053,100000,Germany,country,adult,female,health,WHO,2022,212.06053
+breast cancer,0,100000,Germany,country,adult,male,health,WHO,2022,0
+breast cancer,739.8,100000,Germany,country,adult,female,health,WHO,2022,739.8
+endometrial uterine cancer,113.3,100000,Germany,country,adult,female,health,WHO,2022,113.3
+endometrial uterine cancer,0,100000,Germany,country,adult,male,health,WHO,2022,0
+coronary heart disease,4167.295616,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4167.295616
+coronary heart disease,2613.196927,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2613.196927
+stroke,1556.951149,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1556.951149
+stroke,1657.099965,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1657.099965
+diabetes (type 2),9164.04209,100000,Germany,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,9164.04209
+diabetes (type 2),8128.735359,100000,Germany,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,8128.735359
+depression,3230.358263,100000,Germany,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8097.052208,100000,Germany,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2426.593243,100000,Germany,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7859.697779,100000,Germany,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Germany,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Germany,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Germany,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Germany,country,adult,female,health,Global Burden of Disease,,2341.293888
+coronary heart disease,5492.672473,100000,global,global,adult,male,health,Global Burden of Disease,,5492.672473
+coronary heart disease,3444.30443,100000,global,global,adult,female,health,Global Burden of Disease,,3444.30443
+stroke,1811.736896,100000,global,global,adult,male,health,Global Burden of Disease,,1811.736896
+stroke,1928.274468,100000,global,global,adult,female,health,Global Burden of Disease,,1928.274468
+diabetes (type 2),12035.46066,100000,global,global,adult,male,health,Global Burden of Disease,,12035.46066
+diabetes (type 2),10675.75569,100000,global,global,adult,female,health,Global Burden of Disease,,10675.75569
+colon cancer,435.4828693,100000,global,global,adult,male,health,Global Burden of Disease,,435.4828693
+colon cancer,342.2166698,100000,global,global,adult,female,health,Global Burden of Disease,,342.2166698
+alzheimer and other dementia,1749.257827,100000,global,global,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,global,global,adult,female,health,Global Burden of Disease,,2341.293888
+depression,4183.999746,100000,global,global,adult,male,health,Global Burden of Disease,,4183.999746
+depression,6624.144157,100000,global,global,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,3408.893726,100000,global,global,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,6135.047012,100000,global,global,adult,female,health,Global Burden of Disease,,6135.047012
+breast cancer,2041.96452,100000,global,global,adult,female,health,Global Burden of Disease,,2041.96452
+endometrial uterine cancer,334.172091,100000,global,global,adult,female,health,Global Burden of Disease,,334.172091
+breast cancer,0,100000,global,global,adult,male,health,,,0
+endometrial uterine cancer,0,100000,global,global,adult,male,health,,,0
+osteoporosis,6744.390651,100000,global,global,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,global,global,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+anxiety,5.4,100,global,global,youth,male,health,NHS mental health survey CYP 2017,2017,5.4
+anxiety,9.1,100,global,global,youth,female,health,NHS mental health survey CYP 2017,2017,9.1
+depression,1.4,100,global,global,youth,male,health,NHS mental health survey CYP 2017,2017,1.4
+depression,2.8,100,global,global,youth,female,health,NHS mental health survey CYP 2017,2017,2.8
+obesity,19.89563384,100,global,global,youth,male,health,HSE 2018,2018,19.89563384
+obesity,16.53984283,100,global,global,youth,female,health,HSE 2018,2018,16.53984283
+colon cancer,236.8112421,100000,Ireland,country,adult,male,health,WHO,2022,236.8112421
+colon cancer,186.094017,100000,Ireland,country,adult,female,health,WHO,2022,186.094017
+breast cancer,661.1,100000,Ireland,country,adult,female,health,WHO,2022,661.1
+breast cancer,0,100000,Ireland,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,0,100000,Ireland,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,119,100000,Ireland,country,adult,female,health,WHO,2022,119
+coronary heart disease,2079.530508,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2079.530508
+coronary heart disease,1304.016667,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1304.016667
+stroke,626.6458399,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,626.6458399
+stroke,666.9539981,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,666.9539981
+diabetes (type 2),5632.446719,100000,Ireland,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,5632.446719
+diabetes (type 2),4996.121668,100000,Ireland,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4996.121668
+depression,3232.112565,100000,Ireland,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8101.449146,100000,Ireland,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2428.259532,100000,Ireland,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7865.094489,100000,Ireland,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Ireland,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Ireland,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Ireland,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Ireland,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,407.0483845,100000,Japan,country,adult,male,health,WHO,2022,407.0483845
+colon cancer,319.8719225,100000,Japan,country,adult,female,health,WHO,2022,319.8719225
+breast cancer,0,100000,Japan,country,adult,male,health,WHO,2022,0
+breast cancer,606.1,100000,Japan,country,adult,female,health,WHO,2022,606.1
+endometrial uterine cancer,0,100000,Japan,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,117.6,100000,Japan,country,adult,female,health,WHO,2022,117.6
+coronary heart disease,4752.070967,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4752.070967
+coronary heart disease,2979.893515,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2979.893515
+stroke,1389.580229,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1389.580229
+stroke,1478.963133,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1478.963133
+diabetes (type 2),8902.286021,100000,Japan,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,8902.286021
+diabetes (type 2),7896.551144,100000,Japan,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,7896.551144
+depression,3221.691272,100000,Japan,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8075.328009,100000,Japan,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2418.368085,100000,Japan,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7833.056672,100000,Japan,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Japan,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Japan,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Japan,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Japan,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,38.99594847,100000,KSA,country,adult,male,health,WHO,2022,38.99594847
+colon cancer,30.64429076,100000,KSA,country,adult,female,health,WHO,2022,30.64429076
+breast cancer,0,100000,KSA,country,adult,male,health,WHO,2022,0
+breast cancer,105,100000,KSA,country,adult,female,health,WHO,2022,105
+endometrial uterine cancer,0,100000,KSA,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,24.7,100000,KSA,country,adult,female,health,WHO,2022,24.7
+coronary heart disease,639.0623225,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,639.0623225
+coronary heart disease,400.7384772,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,400.7384772
+stroke,29.8636862,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,29.8636862
+stroke,31.78462816,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,31.78462816
+diabetes (type 2),10671.67191,100000,KSA,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,10671.67191
+diabetes (type 2),9466.040856,100000,KSA,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,9466.040856
+depression,3401.180812,100000,KSA,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8525.227331,100000,KSA,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2591.121568,100000,KSA,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,8392.602447,100000,KSA,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,KSA,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,KSA,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,KSA,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,KSA,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,344.6367763,100000,New Zealand,country,adult,male,health,WHO,2022,344.6367763
+colon cancer,270.8268412,100000,New Zealand,country,adult,female,health,WHO,2022,270.8268412
+breast cancer,0,100000,New Zealand,country,adult,male,health,WHO,2022,0
+breast cancer,639.7,100000,New Zealand,country,adult,female,health,WHO,2022,639.7
+endometrial uterine cancer,0,100000,New Zealand,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,97.6,100000,New Zealand,country,adult,female,health,WHO,2022,97.6
+coronary heart disease,2512.025357,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2512.025357
+coronary heart disease,1575.222282,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1575.222282
+stroke,371.5616165,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,371.5616165
+stroke,395.4618245,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,395.4618245
+diabetes (type 2),5372.570441,100000,New Zealand,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,5372.570441
+diabetes (type 2),4765.60483,100000,New Zealand,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4765.60483
+depression,3234.794798,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8108.172643,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2430.808123,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7873.349763,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,New Zealand,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,New Zealand,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,New Zealand,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,New Zealand,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,262.0227919,100000,Singapore,country,adult,male,health,WHO,2022,262.0227919
+colon cancer,205.9060725,100000,Singapore,country,adult,female,health,WHO,2022,205.9060725
+breast cancer,0,100000,Singapore,country,adult,male,health,WHO,2022,0
+breast cancer,574.6,100000,Singapore,country,adult,female,health,WHO,2022,574.6
+endometrial uterine cancer,0,100000,Singapore,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,135,100000,Singapore,country,adult,female,health,WHO,2022,135
+coronary heart disease,1664.881623,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1664.881623
+coronary heart disease,1044.001654,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1044.001654
+stroke,520.4771449,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,520.4771449
+stroke,553.9561467,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,553.9561467
+diabetes (type 2),10176.07159,100000,Singapore,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,10176.07159
+diabetes (type 2),9026.430911,100000,Singapore,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,9026.430911
+depression,3263.952999,100000,Singapore,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8181.259113,100000,Singapore,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2458.585887,100000,Singapore,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7963.321508,100000,Singapore,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Singapore,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Singapore,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Singapore,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Singapore,country,adult,female,health,Global Burden of Disease,,2341.293888
+colon cancer,301.6905346,100000,Spain,country,adult,male,health,WHO,2022,301.6905346
+colon cancer,237.0782816,100000,Spain,country,adult,female,health,WHO,2022,237.0782816
+breast cancer,0,100000,Spain,country,adult,male,health,WHO,2022,0
+breast cancer,629.2,100000,Spain,country,adult,female,health,WHO,2022,629.2
+endometrial uterine cancer,0,100000,Spain,country,adult,male,health,WHO,2022,0
+endometrial uterine cancer,113.6,100000,Spain,country,adult,female,health,WHO,2022,113.6
+coronary heart disease,4454.681291,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,4454.681291
+coronary heart disease,2793.40861,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,2793.40861
+stroke,939.5850026,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,939.5850026
+stroke,1000.022561,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,1000.022561
+diabetes (type 2),17278.17724,100000,Spain,country,adult,male,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,17278.17724
+diabetes (type 2),15326.17691,100000,Spain,country,adult,female,health,"(LANCET) Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of",2016,15326.17691
+depression,3226.205965,100000,Spain,country,adult,male,health,Global Burden of Disease,,4183.999746
+depression,8086.644273,100000,Spain,country,adult,female,health,Global Burden of Disease,,6624.144157
+anxiety,2422.651169,100000,Spain,country,adult,male,health,Global Burden of Disease,,3408.893726
+anxiety,7846.92947,100000,Spain,country,adult,female,health,Global Burden of Disease,,6135.047012
+osteoporosis,6744.390651,100000,Spain,country,adult,male,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,6744.390651
+osteoporosis,22146.20221,100000,Spain,country,adult,female,health,"Svedbom A, et al .(2013) Osteoporosis in the European Union: a compendium of country-specific reports",2013,22146.20221
+alzheimer and other dementia,1749.257827,100000,Spain,country,adult,male,health,Global Burden of Disease,,1749.257827
+alzheimer and other dementia,2341.293888,100000,Spain,country,adult,female,health,Global Burden of Disease,,2341.293888
