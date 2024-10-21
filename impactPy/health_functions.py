@@ -129,7 +129,6 @@ def read_population_risks(source, factor, age_group, gender, geography, local = 
 
 
 
-
 def read_activity_levels(source,age_group,gender, geography, activity_level='active', local=False):
 
     if local:
@@ -196,6 +195,9 @@ def find_health_outcomes(additional_active,
         pop_deaths_df = read_population_risks(factor=h, age_group='adult', gender=gender, geography='global', source='data/health_data/population_mortality_risks.csv', local=True)
         pop_dalys_df = read_population_risks(factor=h, age_group='adult', gender=gender, geography='global', source='data/health_data/population_dalys.csv', local=True)
 
+        
+
+
         # Calculate adjusted risk rates
         a, b, c = calculate_adjusted_risk_rates(
             pop_df['population_rate'].iloc[0] / pop_df['rate_per'].iloc[0],
@@ -229,6 +231,16 @@ def find_health_outcomes(additional_active,
         cases_saved, fairly_cases_saved = calculate_cases_saved(a, c, affected_pop), calculate_cases_saved(b, c, fairly_affected_pop)
         deaths_saved, fairly_deaths_saved = calculate_cases_saved(a_d, c_d, affected_pop), calculate_cases_saved(b_d, c_d, fairly_affected_pop)
         dalys_saved, fairly_dalys_saved = calculate_cases_saved(a_daly, c_daly, affected_pop), calculate_cases_saved(b_daly, c_daly, fairly_affected_pop)
+
+
+        # Print the input data for activity levels, population risk, cost per case, and relative risk
+        print(f"Input Data for {geography}, disease {h} and gender {gender}:")
+        print(f"Population Rate: {pop_df['population_rate'].iloc[0]}")
+        print(f"Activity Rate: {activity_df['activity_rate'].values[0]}")
+        print(f"Relative Risk: {risks_df['relative_risk'].iloc[0]}")
+        print(f"Cost per case: {cost_per_case.iloc[0,11]}\n")
+
+
 
         cases_saved_dict = {
             'factor': h,

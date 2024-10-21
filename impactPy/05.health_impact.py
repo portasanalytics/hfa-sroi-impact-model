@@ -7,8 +7,6 @@ Results can be segmented by gender, geography, and activity level. Currently use
 """
 
 
-
-
 import pandas as pd
 from health_functions import find_health_outcomes
 
