@@ -72,9 +72,6 @@ def process_country(code, df):
             # Append the results to the list
             all_results.append(adult_health_outcomes)
 
-            # Append the results to the list
-            all_results.append(adult_health_outcomes)
-
         except Exception as e:
             print(f"Error processing scenario {scenario_id} for {geography}: {e}")
 
