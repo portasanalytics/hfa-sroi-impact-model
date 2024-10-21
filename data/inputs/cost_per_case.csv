@@ -1,33 +1,33 @@
-﻿factor,age_group,gender,geography,geography_level,direct,cost_per_case_unflated,cost_per_case,category,source,base_year
-coronary heart disease,adult,all,england,country,TRUE,2252.10299,2252.10299,health,https://doi.org/10.1093/ehjqcco/qcw003,2016
-stroke,adult,all,united kingdom,country,TRUE,2176.863283,2401.050289,health,European Heart Network: http://www.ehnheart.org/images/CVD-statistics-report-August-2017.pdf ,2017
-diabetes (type 2),adult,all,united kingdom,country,TRUE,1634.71,2068.273017,health,https://pubmed.ncbi.nlm.nih.gov/22537247/,2012
-breast cancer,adult,all,united kingdom,country,TRUE,8703,978.2347643,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016
-endometrial uterine cancer,adult,all,england,country,TRUE,5228.22,5880.820946,health,"Pennington M, Gentry-Maharaj A, Karpinskyj C, Miners A, Taylor J, Manchanda R, et al. (2016) Long-Term Secondary Care Costs of Endometrial Cancer: A Nested  within the United Kingdom Collaborative Prospective Cohort Study Trial of Ovarian Cancer Screening (UKCTOCS). PLoS ONE 11(11)",2016
-colon cancer,adult,all,united kingdom,country,TRUE,3731,4035.722421,health,https://www.bowelcanceruk.org.uk/news-and-blogs/news/bowel-cancer-costs-the-uk-%C2%A31.74-billion-a-year/,2020
-osteoporosis,adult,all,united kingdom,country,TRUE,6530,8261.739544,health,"Turner, D., et al. (2018) The cost-effectiveness of screening in the community to reduce osteoporotic fractures in older women in the UK: economic evaluation of the SCOOP study. J Bone Miner Res, 33(5) 845-851. ",2018
-alzheimer and other dementia,adult,all,united kingdom,country,TRUE,6323.486659,6323.486659,health,https://kclpure.kcl.ac.uk/ws/portalfiles/portal/35828472/P326_AS_Dementia_Report_WEB2.pdf,2014
-depression,adult,all,england,country,TRUE,2870.06,3851.242246,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
-",2008
-anxiety,adult,all,england,country,TRUE,1104,1481.424011,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
-",2008
-coronary heart disease,adult,all,united kingdom,country,FALSE,2736.767361,2736.767361,health,European Heart Network: http://www.ehnheart.org/images/CVD-statistics-report-August-2017.pdf ,2017
-stroke,adult,all,united kingdom,country,FALSE,45409,52088.28766,health,"Patel, A., et al. (2019) Estimated societal costs of stroke in the UK based on a discrete event simulation. Age and Ageing",2019
-diabetes (type 2),adult,all,united kingdom,country,FALSE,3746.13,4739.699408,health,https://pubmed.ncbi.nlm.nih.gov/22537247/,2012
-breast cancer,adult,all,united kingdom,country,FALSE,2517.0953,2831.286259,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016
-endometrial uterine cancer,adult,all,england,country,FALSE,13452.73,15131.93694,health,"Pennington M, Gentry-Maharaj A, Karpinskyj C, Miners A, Taylor J, Manchanda R, et al. (2016) Long-Term Secondary Care Costs of Endometrial Cancer: A Nested  within the United Kingdom Collaborative Prospective Cohort Study Trial of Ovarian Cancer Screening (UKCTOCS). PLoS ONE 11(11)",2016
-colon cancer,adult,all,united kingdom,country,FALSE,10015.52,11265.68345,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016
-osteoporosis,adult,all,united kingdom,country,FALSE,6756.73,8060.514695,health,"Svedbom A (2013) Osteoporosis in the European Union: a compendium. Arch Osteoporosis 
-of country-specific reports",2013
-alzheimer and other dementia,adult,all,united kingdom,country,FALSE,15146.95642,15146.95642,health,https://kclpure.kcl.ac.uk/ws/portalfiles/portal/35828472/P326_AS_Dementia_Report_WEB2.pdf,2014
-depression,adult,all,england,country,FALSE,9946.78,13347.27888,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
-",2008
-anxiety,adult,all,england,country,FALSE,2402,3223.17072,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
-",2008
-anxiety,youth,all,england,country,TRUE,1104,2909.674488,health,Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund,2008
-obesity,youth,all,england,country,TRUE,41.405,54.22,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018
-depression,youth,all,sweden,country,TRUE,2085,3528.75,health," Sobocki et al., (2006) The economic burden of depression in Sweden from 1997 to 2005.",2006
-obesity,adult,all,england,country,TRUE,622.3078197,622.3078197,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018
-obesity,adult,all,england,country,FALSE,2789.36264,2789.36264,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018
-crime,all,all,england,country,TRUE,,5368.81,social,https://www.rbs.com/content/dam/rbs_com/rbs/PDFs/Sustainability/Downloads/cost-of-exclusion-pt.pdf,
-NEET,youth,all,england,country,TRUE,,3300,social,https://centrepoint.org.uk/media/1702/is-prevention-cheaper-than-cure.pdf,
+﻿factor,age_group,gender,geography,geography_level,direct,cost_per_case_unflated_v1,cost_per_case_unflated,cost_per_case,category,source,base_year_v1,base_year
+coronary heart disease,adult,all,england,country,TRUE,2252.10299,2252.10299,2252.10299,health,https://doi.org/10.1093/ehjqcco/qcw003,2016,2024
+stroke,adult,all,united kingdom,country,TRUE,2176.863283,2401.050289,2401.050289,health,European Heart Network: http://www.ehnheart.org/images/CVD-statistics-report-August-2017.pdf ,2017,2024
+diabetes (type 2),adult,all,united kingdom,country,TRUE,1634.71,2068.273017,2068.273017,health,https://pubmed.ncbi.nlm.nih.gov/22537247/,2012,2024
+breast cancer,adult,all,united kingdom,country,TRUE,870.3,978.2347643,978.2347643,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016,2024
+endometrial uterine cancer,adult,all,england,country,TRUE,5228.22,5880.820946,5880.820946,health,"Pennington M, Gentry-Maharaj A, Karpinskyj C, Miners A, Taylor J, Manchanda R, et al. (2016) Long-Term Secondary Care Costs of Endometrial Cancer: A Nested  within the United Kingdom Collaborative Prospective Cohort Study Trial of Ovarian Cancer Screening (UKCTOCS). PLoS ONE 11(11)",2016,2024
+colon cancer,adult,all,united kingdom,country,TRUE,3731,4035.722421,4035.722421,health,https://www.bowelcanceruk.org.uk/news-and-blogs/news/bowel-cancer-costs-the-uk-%C2%A31.74-billion-a-year/,2020,2024
+osteoporosis,adult,all,united kingdom,country,TRUE,6530,8261.739544,8261.739544,health,"Turner, D., et al. (2018) The cost-effectiveness of screening in the community to reduce osteoporotic fractures in older women in the UK: economic evaluation of the SCOOP study. J Bone Miner Res, 33(5) 845-851. ",2018,2024
+alzheimer and other dementia,adult,all,united kingdom,country,TRUE,6323.486659,6323.486659,6323.486659,health,https://kclpure.kcl.ac.uk/ws/portalfiles/portal/35828472/P326_AS_Dementia_Report_WEB2.pdf,2014,2024
+depression,adult,all,england,country,TRUE,2870.06,3851.242246,3851.242246,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
+",2008,2024
+anxiety,adult,all,england,country,TRUE,1104,1481.424011,1481.424011,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
+",2008,2024
+coronary heart disease,adult,all,united kingdom,country,FALSE,2736.767361,2736.767361,2736.767361,health,European Heart Network: http://www.ehnheart.org/images/CVD-statistics-report-August-2017.pdf ,2017,2024
+stroke,adult,all,united kingdom,country,FALSE,45409,52088.28766,52088.28766,health,"Patel, A., et al. (2019) Estimated societal costs of stroke in the UK based on a discrete event simulation. Age and Ageing",2019,2024
+diabetes (type 2),adult,all,united kingdom,country,FALSE,3746.13,4739.699408,4739.699408,health,https://pubmed.ncbi.nlm.nih.gov/22537247/,2012,2024
+breast cancer,adult,all,united kingdom,country,FALSE,2517.0953,2831.286259,2831.286259,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016,2024
+endometrial uterine cancer,adult,all,england,country,FALSE,13452.73,15131.93694,15131.93694,health,"Pennington M, Gentry-Maharaj A, Karpinskyj C, Miners A, Taylor J, Manchanda R, et al. (2016) Long-Term Secondary Care Costs of Endometrial Cancer: A Nested  within the United Kingdom Collaborative Prospective Cohort Study Trial of Ovarian Cancer Screening (UKCTOCS). PLoS ONE 11(11)",2016,2024
+colon cancer,adult,all,united kingdom,country,FALSE,10015.52,11265.68345,11265.68345,health,"Ding D, Lawson KD, Kolbe-Alexander TL, et al. The economic burden of physical inactivity: a global analysis of major non-communicable diseases. Lancet",2016,2024
+osteoporosis,adult,all,united kingdom,country,FALSE,6756.73,8060.514695,8060.514695,health,"Svedbom A (2013) Osteoporosis in the European Union: a compendium. Arch Osteoporosis 
+of country-specific reports",2013,2024
+alzheimer and other dementia,adult,all,united kingdom,country,FALSE,15146.95642,15146.95642,15146.95642,health,https://kclpure.kcl.ac.uk/ws/portalfiles/portal/35828472/P326_AS_Dementia_Report_WEB2.pdf,2014,2024
+depression,adult,all,england,country,FALSE,9946.78,13347.27888,13347.27888,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
+",2008,2024
+anxiety,adult,all,england,country,FALSE,2402,3223.17072,3223.17072,health,"Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund 
+",2008,2024
+anxiety,youth,all,england,country,TRUE,1104,2909.674488,2909.674488,health,Paul McCrone et al (2008) PAYING THE PRICE: The cost of mental health care in England to 2026. The Kings Fund,2008,2024
+obesity,youth,all,england,country,TRUE,41.405,54.22,54.22,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018,2024
+depression,youth,all,sweden,country,TRUE,2085,3528.75,3528.75,health," Sobocki et al., (2006) The economic burden of depression in Sweden from 1997 to 2005.",2006,2024
+obesity,adult,all,england,country,TRUE,622.3078197,622.3078197,622.3078197,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018,2024
+obesity,adult,all,england,country,FALSE,2789.36264,2789.36264,2789.36264,health,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2018/health-survey-for-england-2018-data-tables,2018,2024
+crime,all,all,england,country,TRUE,,5368.81,5368.81,social,https://www.rbs.com/content/dam/rbs_com/rbs/PDFs/Sustainability/Downloads/cost-of-exclusion-pt.pdf,,2024
+NEET,youth,all,england,country,TRUE,,3300,3300,social,https://centrepoint.org.uk/media/1702/is-prevention-cheaper-than-cure.pdf,,2024
