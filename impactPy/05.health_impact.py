@@ -18,9 +18,9 @@ df = df[['scenario_id', 'gender', 'newly_active_customers']]
 
 country_map = {
     "SIN": "Singapore",
-    "NZ": "New Zealand",
+    "NEW": "Newzealand",
     "SPA": "Spain",
-    "NEW": "New Zealand",
+    "NEW": "Newzealand",
     "JAP": "Japan",
     "CAN": "Canada",
     "AUS": "Australia",
@@ -77,7 +77,7 @@ def process_country(code, df):
     # Combine all results into a single DataFrame if there are results
     return pd.concat(all_results, ignore_index=True) if all_results else pd.DataFrame()
 
-# Create a Pandas ExcelWriter object
+
 with pd.ExcelWriter('health_outcomes.xlsx') as writer:
     # Process each country and save to a separate sheet
     for code in country_map.keys():
