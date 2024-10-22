@@ -18,6 +18,7 @@ df = df[['scenario_id', 'gender', 'newly_active_customers']]
 
 country_map = {
     "SIN": "Singapore",
+    "NZ": "New Zealand",
     "SPA": "Spain",
     "NEW": "New Zealand",
     "JAP": "Japan",
