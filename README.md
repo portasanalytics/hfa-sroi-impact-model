@@ -75,9 +75,9 @@ This repository contains scripts that calculate the Social Return on Investment 
 2. **Healthcare Expenditure Predictor**:
    - Predicts healthcare expenditure for 10 markets using the UK as the baseline.
 
-3. **Adjusted Cost Calculator**:
-   - Converts UK healthcare costs to updated costs for 10 other markets.
-   - Uses inflation rates and healthcare expenditure data to adjust for specific markets and time.
+3. **Updated Adjusted Cost Calculator**:
+   - Converts UK and US healthcare costs (direct and indirect) to updated costs for 10 other markets.
+   - Uses inflation rates, healthcare expenditure (for direct cost) and normalised income levels (for indirect cost) to adjust for specific markets and baseline year.
    - **Output**: Healthcare costs across markets are saved as cost_per_case_adjusted.
 
 ---
@@ -85,6 +85,7 @@ This repository contains scripts that calculate the Social Return on Investment 
 ## Inputs
 - **CPI Levels**: Consumer Price Index data used for market price adjustments.
 - **Healthcare Expenditure Data**: Used for calculating healthcare costs across 10 markets, with the UK as the baseline.
+- **Income Adjustment Factor**: Used for estimating healthcare indirect costs across 10 markets, with UK as baseline for all disease except osteoporosis for which we use USA as baseline.
 
 ---
 
