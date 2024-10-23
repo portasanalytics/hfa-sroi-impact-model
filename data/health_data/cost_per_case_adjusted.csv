@@ -1,221 +1,221 @@
-geography,factor,age_group,gender,direct,cost_per_case_uk,forex_rate,cost_per_case_local,healthcare_expenditure_factor,cost_per_case_adjusted
-Australia,coronary heart disease,adult,all,TRUE,2252.10299,1.955279946,4403.491813,1.359909841,5988.351853
-Australia,stroke,adult,all,TRUE,2401.050289,1.955279946,4694.72548,1.359909841,6384.403383
-Australia,diabetes (type 2),adult,all,TRUE,2068.273017,1.955279946,4044.052754,1.359909841,5499.547139
-Australia,breast cancer,adult,all,TRUE,978.2347643,1.955279946,1912.722817,1.359909841,2601.130583
-Australia,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.955279946,11498.65126,1.359909841,15637.12902
-Australia,colon cancer,adult,all,TRUE,4035.722421,1.955279946,7890.967119,1.359909841,10731.00384
-Australia,osteoporosis,adult,all,TRUE,8261.739544,1.955279946,16154.01365,1.359909841,21968.00214
-Australia,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.955279946,12364.18666,1.359909841,16814.17911
-Australia,depression,adult,all,TRUE,3851.242246,1.955279946,7530.256732,1.359909841,10240.47024
-Australia,anxiety,adult,all,TRUE,1481.424011,1.955279946,2896.598661,1.359909841,3939.113025
-Australia,coronary heart disease,adult,all,FALSE,2736.767361,1.955279946,5351.146339,1.359909841,7277.076569
-Australia,stroke,adult,all,FALSE,52088.28766,1.955279946,101847.1843,1.359909841,138502.9882
-Australia,diabetes (type 2),adult,all,FALSE,4739.699408,1.955279946,9267.439204,1.359909841,12602.88178
-Australia,breast cancer,adult,all,FALSE,2831.286259,1.955279946,5535.957245,1.359909841,7528.402738
-Australia,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.955279946,29587.17285,1.359909841,40235.88753
-Australia,colon cancer,adult,all,FALSE,11265.68345,1.955279946,22027.56493,1.359909841,29955.50233
-Australia,osteoporosis,adult,all,FALSE,8060.514695,1.955279946,15760.56274,1.359909841,21432.94438
-Australia,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.955279946,29616.54014,1.359909841,40275.8244
-Australia,depression,adult,all,FALSE,13347.27888,1.955279946,26097.66673,1.359909841,35490.47383
-Australia,anxiety,adult,all,FALSE,3223.17072,1.955279946,6302.201072,1.359909841,8570.425261
-Australia,obesity,adult,all,TRUE,622.3078197,1.955279946,1216.786,1.359909841,1654.719257
-Australia,obesity,adult,all,FALSE,2789.36264,1.955279946,5453.984833,1.359909841,7416.927649
-Canada,coronary heart disease,adult,all,TRUE,2252.10299,1.800500035,4054.911513,1.168206128,4736.972478
-Canada,stroke,adult,all,TRUE,2401.050289,1.800500035,4323.09113,1.168206128,5050.26155
-Canada,diabetes (type 2),adult,all,TRUE,2068.273017,1.800500035,3723.92564,1.168206128,4350.312753
-Canada,breast cancer,adult,all,TRUE,978.2347643,1.800500035,1761.311728,1.168206128,2057.575154
-Canada,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.800500035,10588.41832,1.168206128,12369.45517
-Canada,colon cancer,adult,all,TRUE,4035.722421,1.800500035,7266.318361,1.168206128,8488.557638
-Canada,osteoporosis,adult,all,TRUE,8261.739544,1.800500035,14875.26234,1.168206128,17377.37262
-Canada,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.800500035,11385.43795,1.168206128,13300.53839
-Canada,depression,adult,all,TRUE,3851.242246,1.800500035,6934.1618,1.168206128,8100.530307
-Canada,anxiety,adult,all,TRUE,1481.424011,1.800500035,2667.303984,1.168206128,3115.960859
-Canada,coronary heart disease,adult,all,FALSE,2736.767361,1.800500035,4927.54973,1.168206128,5756.393791
-Canada,stroke,adult,all,FALSE,52088.28766,1.800500035,93784.96377,1.168206128,109560.1694
-Canada,diabetes (type 2),adult,all,FALSE,4739.699408,1.800500035,8533.828951,1.168206128,9969.271276
-Canada,breast cancer,adult,all,FALSE,2831.286259,1.800500035,5097.731009,1.168206128,5955.200604
-Canada,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.800500035,27245.05299,1.168206128,31827.83787
-Canada,colon cancer,adult,all,FALSE,11265.68345,1.800500035,20283.86345,1.168206128,23695.73358
-Canada,osteoporosis,adult,all,FALSE,8060.514695,1.800500035,14512.95699,1.168206128,16954.12529
-Canada,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.800500035,27272.09557,1.168206128,31859.42917
-Canada,depression,adult,all,FALSE,13347.27888,1.800500035,24031.77609,1.168206128,28074.0681
-Canada,anxiety,adult,all,FALSE,3223.17072,1.800500035,5803.318995,1.168206128,6779.472813
-Canada,obesity,adult,all,TRUE,622.3078197,1.800500035,1120.465251,1.168206128,1308.934373
-Canada,obesity,adult,all,FALSE,2789.36264,1.800500035,5022.247532,1.168206128,5867.020343
-Germany,coronary heart disease,adult,all,TRUE,2252.10299,1.200369954,2703.356763,1.268184998,3428.356491
-Germany,stroke,adult,all,TRUE,2401.050289,1.200369954,2882.148625,1.268184998,3655.097648
-Germany,diabetes (type 2),adult,all,TRUE,2068.273017,1.200369954,2482.692787,1.268184998,3148.513746
-Germany,breast cancer,adult,all,TRUE,978.2347643,1.200369954,1174.243619,1.268184998,1489.158142
-Germany,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.200369954,7059.160769,1.268184998,8952.321786
-Germany,colon cancer,adult,all,TRUE,4035.722421,1.200369954,4844.359937,1.268184998,6143.544597
-Germany,osteoporosis,adult,all,TRUE,8261.739544,1.200369954,9917.143917,1.268184998,12576.77314
-Germany,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.200369954,7590.523391,1.268184998,9626.187891
-Germany,depression,adult,all,TRUE,3851.242246,1.200369954,4622.915478,1.268184998,5862.712056
-Germany,anxiety,adult,all,TRUE,1481.424011,1.200369954,1778.256872,1.268184998,2255.158688
-Germany,coronary heart disease,adult,all,FALSE,2736.767361,1.200369954,3285.133312,1.268184998,4166.156782
-Germany,stroke,adult,all,FALSE,52088.28766,1.200369954,62525.21547,1.268184998,79293.54025
-Germany,diabetes (type 2),adult,all,FALSE,4739.699408,1.200369954,5689.392761,1.268184998,7215.202547
-Germany,breast cancer,adult,all,FALSE,2831.286259,1.200369954,3398.590957,1.268184998,4310.042066
-Germany,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.200369954,18163.92245,1.268184998,23035.21396
-Germany,colon cancer,adult,all,FALSE,11265.68345,1.200369954,13522.98793,1.268184998,17149.65042
-Germany,osteoporosis,adult,all,FALSE,8060.514695,1.200369954,9675.599655,1.268184998,12270.45033
-Germany,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.200369954,18181.95138,1.268184998,23058.07798
-Germany,depression,adult,all,FALSE,13347.27888,1.200369954,16021.67254,1.268184998,20318.44475
-Germany,anxiety,adult,all,FALSE,3223.17072,1.200369954,3868.997289,1.268184998,4906.604319
-Germany,obesity,adult,all,TRUE,622.3078197,1.200369954,746.999609,1.268184998,947.3336976
-Germany,obesity,adult,all,FALSE,2789.36264,1.200369954,3348.267104,1.268184998,4246.222111
-Ireland,coronary heart disease,adult,all,TRUE,2252.10299,1.200369954,2703.356763,1.184506629,3202.144007
-Ireland,stroke,adult,all,TRUE,2401.050289,1.200369954,2882.148625,1.184506629,3413.924153
-Ireland,diabetes (type 2),adult,all,TRUE,2068.273017,1.200369954,2482.692787,1.184506629,2940.766064
-Ireland,breast cancer,adult,all,TRUE,978.2347643,1.200369954,1174.243619,1.184506629,1390.899351
-Ireland,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.200369954,7059.160769,1.184506629,8361.622728
-Ireland,colon cancer,adult,all,TRUE,4035.722421,1.200369954,4844.359937,1.184506629,5738.17646
-Ireland,osteoporosis,adult,all,TRUE,8261.739544,1.200369954,9917.143917,1.184506629,11746.92271
-Ireland,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.200369954,7590.523391,1.184506629,8991.025276
-Ireland,depression,adult,all,TRUE,3851.242246,1.200369954,4622.915478,1.184506629,5475.874031
-Ireland,anxiety,adult,all,TRUE,1481.424011,1.200369954,1778.256872,1.184506629,2106.357054
-Ireland,coronary heart disease,adult,all,FALSE,2736.767361,1.200369954,3285.133312,1.184506629,3891.262186
-Ireland,stroke,adult,all,FALSE,52088.28766,1.200369954,62525.21547,1.184506629,74061.53222
-Ireland,diabetes (type 2),adult,all,FALSE,4739.699408,1.200369954,5689.392761,1.184506629,6739.123442
-Ireland,breast cancer,adult,all,FALSE,2831.286259,1.200369954,3398.590957,1.184506629,4025.653519
-Ireland,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.200369954,18163.92245,1.184506629,21515.28656
-Ireland,colon cancer,adult,all,FALSE,11265.68345,1.200369954,13522.98793,1.184506629,16018.06885
-Ireland,osteoporosis,adult,all,FALSE,8060.514695,1.200369954,9675.599655,1.184506629,11460.81193
-Ireland,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.200369954,18181.95138,1.184506629,21536.64195
-Ireland,depression,adult,all,FALSE,13347.27888,1.200369954,16021.67254,1.184506629,18977.77733
-Ireland,anxiety,adult,all,FALSE,3223.17072,1.200369954,3868.997289,1.184506629,4582.852938
-Ireland,obesity,adult,all,TRUE,622.3078197,1.200369954,746.999609,1.184506629,884.8259889
-Ireland,obesity,adult,all,FALSE,2789.36264,1.200369954,3348.267104,1.184506629,3966.044582
-KSA,coronary heart disease,adult,all,TRUE,2252.10299,4.900332928,11036.05444,0.342019701,3774.548042
-KSA,stroke,adult,all,TRUE,2401.050289,4.900332928,11765.94579,0.342019701,4024.185264
-KSA,diabetes (type 2),adult,all,TRUE,2068.273017,4.900332928,10135.22637,0.342019701,3466.447094
-KSA,breast cancer,adult,all,TRUE,978.2347643,4.900332928,4793.676027,0.342019701,1639.531642
-KSA,endometrial uterine cancer,adult,all,TRUE,5880.820946,4.900332928,28817.98052,0.342019701,9856.317088
-KSA,colon cancer,adult,all,TRUE,4035.722421,4.900332928,19776.38347,0.342019701,6763.912764
-KSA,osteoporosis,adult,all,TRUE,8261.739544,4.900332928,40485.27433,0.342019701,13846.76143
-KSA,alzheimer and other dementia,adult,all,TRUE,6323.486659,4.900332928,30987.18989,0.342019701,10598.22943
-KSA,depression,adult,all,TRUE,3851.242246,4.900332928,18872.36919,0.342019701,6454.722072
-KSA,anxiety,adult,all,TRUE,1481.424011,4.900332928,7259.470861,0.342019701,2482.882055
-KSA,coronary heart disease,adult,all,FALSE,2736.767361,4.900332928,13411.07121,0.342019701,4586.85057
-KSA,stroke,adult,all,FALSE,52088.28766,4.900332928,255249.9512,0.342019701,87300.51203
-KSA,diabetes (type 2),adult,all,FALSE,4739.699408,4.900332928,23226.10508,0.342019701,7943.785519
-KSA,breast cancer,adult,all,FALSE,2831.286259,4.900332928,13874.24528,0.342019701,4745.265226
-KSA,endometrial uterine cancer,adult,all,FALSE,15131.93694,4.900332928,74151.52885,0.342019701,25361.28374
-KSA,colon cancer,adult,all,FALSE,11265.68345,4.900332928,55205.59956,0.342019701,18881.40267
-KSA,osteoporosis,adult,all,FALSE,8060.514695,4.900332928,39499.20557,0.342019701,13509.50649
-KSA,alzheimer and other dementia,adult,all,FALSE,15146.95642,4.900332928,74225.1293,0.342019701,25386.45655
-KSA,depression,adult,all,FALSE,13347.27888,4.900332928,65406.11019,0.342019701,22370.17826
-KSA,anxiety,adult,all,FALSE,3223.17072,4.900332928,15794.60961,0.342019701,5402.06766
-KSA,obesity,adult,all,TRUE,622.3078197,4.900332928,3049.5155,0.342019701,1042.99438
-KSA,obesity,adult,all,FALSE,2789.36264,4.900332928,13668.80559,0.342019701,4675.000804
-Newzealand,coronary heart disease,adult,all,TRUE,2252.10299,2.157219887,4858.281357,0.974098292,4732.443572
-Newzealand,stroke,adult,all,TRUE,2401.050289,2.157219887,5179.593433,0.974098292,5045.433115
-Newzealand,diabetes (type 2),adult,all,TRUE,2068.273017,2.157219887,4461.719684,0.974098292,4346.153523
-Newzealand,breast cancer,adult,all,TRUE,978.2347643,2.157219887,2110.267487,0.974098292,2055.607955
-Newzealand,endometrial uterine cancer,adult,all,TRUE,5880.820946,2.157219887,12686.2239,0.974098292,12357.62903
-Newzealand,colon cancer,adult,all,TRUE,4035.722421,2.157219887,8705.940664,0.974098292,8480.44193
-Newzealand,osteoporosis,adult,all,TRUE,8261.739544,2.157219887,17822.38884,0.974098292,17360.75853
-Newzealand,alzheimer and other dementia,adult,all,TRUE,6323.486659,2.157219887,13641.15117,0.974098292,13287.82206
-Newzealand,depression,adult,all,TRUE,3851.242246,2.157219887,8307.976362,0.974098292,8092.785583
-Newzealand,anxiety,adult,all,TRUE,1481.424011,2.157219887,3195.757337,0.974098292,3112.981764
-Newzealand,coronary heart disease,adult,all,FALSE,2736.767361,2.157219887,5903.808977,0.974098292,5750.89024
-Newzealand,stroke,adult,all,FALSE,52088.28766,2.157219887,112365.89,0.974098292,109455.4215
-Newzealand,diabetes (type 2),adult,all,FALSE,4739.699408,2.157219887,10224.57382,0.974098292,9959.739894
-Newzealand,breast cancer,adult,all,FALSE,2831.286259,2.157219887,6107.707023,0.974098292,5949.506979
-Newzealand,endometrial uterine cancer,adult,all,FALSE,15131.93694,2.157219887,32642.91529,0.974098292,31797.40803
-Newzealand,colon cancer,adult,all,FALSE,11265.68345,2.157219887,24302.55638,0.974098292,23673.07866
-Newzealand,osteoporosis,adult,all,FALSE,8060.514695,2.157219887,17388.3026,0.974098292,16937.91586
-Newzealand,alzheimer and other dementia,adult,all,FALSE,15146.95642,2.157219887,32675.31561,0.974098292,31828.96913
-Newzealand,depression,adult,all,FALSE,13347.27888,2.157219887,28793.01543,0.974098292,28047.22715
-Newzealand,anxiety,adult,all,FALSE,3223.17072,2.157219887,6953.087976,0.974098292,6772.991121
-Newzealand,obesity,adult,all,TRUE,622.3078197,2.157219887,1342.454804,0.974098292,1307.682932
-Newzealand,obesity,adult,all,FALSE,2789.36264,2.157219887,6017.268558,0.974098292,5861.411025
-Singapore,coronary heart disease,adult,all,TRUE,2252.10299,1.710999966,3853.348139,0.821939042,3167.217279
-Singapore,stroke,adult,all,TRUE,2401.050289,1.710999966,4108.196962,0.821939042,3376.687477
-Singapore,diabetes (type 2),adult,all,TRUE,2068.273017,1.710999966,3538.815061,0.821939042,2908.690263
-Singapore,breast cancer,adult,all,TRUE,978.2347643,1.710999966,1673.759648,0.821939042,1375.728403
-Singapore,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.710999966,10062.08444,0.821939042,8270.420047
-Singapore,colon cancer,adult,all,TRUE,4035.722421,1.710999966,6905.120924,0.821939042,5675.58848
-Singapore,osteoporosis,adult,all,TRUE,8261.739544,1.710999966,14135.83608,0.821939042,11618.79557
-Singapore,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.710999966,10819.48546,0.821939042,8892.957516
-Singapore,depression,adult,all,TRUE,3851.242246,1.710999966,6589.475351,0.821939042,5416.14706
-Singapore,anxiety,adult,all,TRUE,1481.424011,1.710999966,2534.716432,0.821939042,2083.382397
-Singapore,coronary heart disease,adult,all,FALSE,2736.767361,1.710999966,4682.608861,0.821939042,3848.819043
-Singapore,stroke,adult,all,FALSE,52088.28766,1.710999966,89123.0584,0.821939042,73253.72128
-Singapore,diabetes (type 2),adult,all,FALSE,4739.699408,1.710999966,8109.625524,0.821939042,6665.617838
-Singapore,breast cancer,adult,all,FALSE,2831.286259,1.710999966,4844.330692,0.821939042,3981.74453
-Singapore,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.710999966,25890.74358,0.821939042,21280.61299
-Singapore,colon cancer,adult,all,FALSE,11265.68345,1.710999966,19275.584,0.821939042,15843.35505
-Singapore,osteoporosis,adult,all,FALSE,8060.514695,1.710999966,13791.54037,0.821939042,11335.80548
-Singapore,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.710999966,25916.44191,0.821939042,21301.73545
-Singapore,depression,adult,all,FALSE,13347.27888,1.710999966,22837.19371,0.821939042,18770.78113
-Singapore,anxiety,adult,all,FALSE,3223.17072,1.710999966,5514.844991,0.821939042,4532.866412
-Singapore,obesity,adult,all,TRUE,622.3078197,1.710999966,1064.768658,0.821939042,875.1749313
-Singapore,obesity,adult,all,FALSE,2789.36264,1.710999966,4772.599381,0.821939042,3922.785766
-Spain,coronary heart disease,adult,all,TRUE,2252.10299,1.200369954,2703.356763,0.560752344,1515.913642
-Spain,stroke,adult,all,TRUE,2401.050289,1.200369954,2882.148625,0.560752344,1616.171598
-Spain,diabetes (type 2),adult,all,TRUE,2068.273017,1.200369954,2482.692787,0.560752344,1392.1758
-Spain,breast cancer,adult,all,TRUE,978.2347643,1.200369954,1174.243619,0.560752344,658.4598622
-Spain,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.200369954,7059.160769,0.560752344,3958.44095
-Spain,colon cancer,adult,all,TRUE,4035.722421,1.200369954,4844.359937,0.560752344,2716.486191
-Spain,osteoporosis,adult,all,TRUE,8261.739544,1.200369954,9917.143917,0.560752344,5561.0617
-Spain,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.200369954,7590.523391,0.560752344,4256.403786
-Spain,depression,adult,all,TRUE,3851.242246,1.200369954,4622.915478,0.560752344,2592.310692
-Spain,anxiety,adult,all,TRUE,1481.424011,1.200369954,1778.256872,0.560752344,997.1617098
-Spain,coronary heart disease,adult,all,FALSE,2736.767361,1.200369954,3285.133312,0.560752344,1842.146206
-Spain,stroke,adult,all,FALSE,52088.28766,1.200369954,62525.21547,0.560752344,35061.16115
-Spain,diabetes (type 2),adult,all,FALSE,4739.699408,1.200369954,5689.392761,0.560752344,3190.340328
-Spain,breast cancer,adult,all,FALSE,2831.286259,1.200369954,3398.590957,0.560752344,1905.767846
-Spain,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.200369954,18163.92245,0.560752344,10185.4621
-Spain,colon cancer,adult,all,FALSE,11265.68345,1.200369954,13522.98793,0.560752344,7583.047181
-Spain,osteoporosis,adult,all,FALSE,8060.514695,1.200369954,9675.599655,0.560752344,5425.615189
-Spain,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.200369954,18181.95138,0.560752344,10195.57186
-Spain,depression,adult,all,FALSE,13347.27888,1.200369954,16021.67254,0.560752344,8984.190435
-Spain,anxiety,adult,all,FALSE,3223.17072,1.200369954,3868.997289,0.560752344,2169.5493
-Spain,obesity,adult,all,TRUE,622.3078197,1.200369954,746.999609,0.560752344,418.8817819
-Spain,obesity,adult,all,FALSE,2789.36264,1.200369954,3348.267104,0.560752344,1877.548628
-America,coronary heart disease,adult,all,TRUE,2252.10299,1.306591749,2942.579185,2.590029905,7621.368087
-America,stroke,adult,all,TRUE,2401.050289,1.306591749,3137.192497,2.590029905,8125.422385
-America,diabetes (type 2),adult,all,TRUE,2068.273017,1.306591749,2702.388459,2.590029905,6999.266924
-America,breast cancer,adult,all,TRUE,978.2347643,1.306591749,1278.153472,2.590029905,3310.455715
-America,endometrial uterine cancer,adult,all,TRUE,5880.820946,1.306591749,7683.832127,2.590029905,19901.35499
-America,colon cancer,adult,all,TRUE,4035.722421,1.306591749,5273.041617,2.590029905,13657.33548
-America,osteoporosis,adult,all,TRUE,8261.739544,1.306591749,10794.72072,2.590029905,27958.64949
-America,alzheimer and other dementia,adult,all,TRUE,6323.486659,1.306591749,8262.215495,2.590029905,21399.38521
-America,depression,adult,all,TRUE,3851.242246,1.306591749,5032.001343,2.590029905,13033.03396
-America,anxiety,adult,all,TRUE,1481.424011,1.306591749,1935.61639,2.590029905,5013.304334
-America,coronary heart disease,adult,all,FALSE,2736.767361,1.306591749,3575.837653,2.590029905,9261.526458
-America,stroke,adult,all,FALSE,52088.28766,1.306591749,68058.12689,2.590029905,176272.5839
-America,diabetes (type 2),adult,all,FALSE,4739.699408,1.306591749,6192.85214,2.590029905,16039.67224
-America,breast cancer,adult,all,FALSE,2831.286259,1.306591749,3699.335266,2.590029905,9581.388967
-America,endometrial uterine cancer,adult,all,FALSE,15131.93694,1.306591749,19771.26396,2.590029905,51208.1649
-America,colon cancer,adult,all,FALSE,11265.68345,1.306591749,14719.64904,2.590029905,38124.33122
-America,osteoporosis,adult,all,FALSE,8060.514695,1.306591749,10531.80199,2.590029905,27277.68212
-America,alzheimer and other dementia,adult,all,FALSE,15146.95642,1.306591749,19790.88828,2.590029905,51258.9925
-America,depression,adult,all,FALSE,13347.27888,1.306591749,17439.44446,2.590029905,45168.68267
-America,anxiety,adult,all,FALSE,3223.17072,1.306591749,4211.368269,2.590029905,10907.56976
-America,obesity,adult,all,TRUE,622.3078197,1.306591749,813.1022627,2.590029905,2105.959176
-America,obesity,adult,all,FALSE,2789.36264,1.306591749,3644.558211,2.590029905,9439.514757
-Japan,coronary heart disease,adult,all,TRUE,2252.10299,194.8079987,438727.6763,0.906645011,397770.2589
-Japan,stroke,adult,all,TRUE,2401.050289,194.8079987,467743.8015,0.906645011,424077.584
-Japan,diabetes (type 2),adult,all,TRUE,2068.273017,194.8079987,402916.1271,0.906645011,365301.8965
-Japan,breast cancer,adult,all,TRUE,978.2347643,194.8079987,190567.9567,0.906645011,172777.4872
-Japan,endometrial uterine cancer,adult,all,TRUE,5880.820946,194.8079987,1145630.959,0.906645011,1038680.593
-Japan,colon cancer,adult,all,TRUE,4035.722421,194.8079987,786191.008,0.906645011,712796.1551
-Japan,osteoporosis,adult,all,TRUE,8261.739544,194.8079987,1609452.946,0.906645011,1459202.484
-Japan,alzheimer and other dementia,adult,all,TRUE,6323.486659,194.8079987,1231865.781,0.906645011,1116864.964
-Japan,depression,adult,all,TRUE,3851.242246,194.8079987,750252.7943,0.906645011,680212.9529
-Japan,anxiety,adult,all,TRUE,1481.424011,194.8079987,288593.2467,0.906645011,261651.6274
-Japan,coronary heart disease,adult,all,FALSE,2736.767361,194.8079987,533144.1724,0.906645011,483372.504
-Japan,stroke,adult,all,FALSE,52088.28766,194.8079987,10147215.07,0.906645011,9199921.921
-Japan,diabetes (type 2),adult,all,FALSE,4739.699408,194.8079987,923331.3559,0.906645011,837133.7673
-Japan,breast cancer,adult,all,FALSE,2831.286259,194.8079987,551557.2097,0.906645011,500066.5925
-Japan,endometrial uterine cancer,adult,all,FALSE,15131.93694,194.8079987,2947822.351,0.906645011,2672628.428
-Japan,colon cancer,adult,all,FALSE,11265.68345,194.8079987,2194645.246,0.906645011,1989764.164
-Japan,osteoporosis,adult,all,FALSE,8060.514695,194.8079987,1570252.736,0.906645011,1423661.809
-Japan,alzheimer and other dementia,adult,all,FALSE,15146.95642,194.8079987,2950748.266,0.906645011,2675281.194
-Japan,depression,adult,all,FALSE,13347.27888,194.8079987,2600156.686,0.906645011,2357419.087
-Japan,anxiety,adult,all,FALSE,3223.17072,194.8079987,627899.4373,0.906645011,569281.8922
-Japan,obesity,adult,all,TRUE,622.3078197,194.8079987,121230.5409,0.906645011,109913.0651
-Japan,obesity,adult,all,FALSE,2789.36264,194.8079987,543390.1534,0.906645011,492661.9716
+ geography , factor , age_group , gender , direct , cost_per_case_uk , forex_rate , cost_per_case_local , inflation_rate , cost_inflated , healthcare_expenditure_factor , income_adjustment_factor , cost_per_case_adjusted 
+ Australia , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.95 ," 12,323.65 ", 1.00 ," 12,323.65 ", 1.36 , -   ," 16,759.06 "
+ Australia , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.95 ," 29,519.45 ", 1.00 ," 29,519.45 ", -   , 1.21 ," 35,694.28 "
+ Australia , anxiety , adult , all , TRUE ," 1,481.42 ", 1.95 ," 2,887.10 ", 1.00 ," 2,887.10 ", 1.36 , -   ," 3,926.20 "
+ Australia , anxiety , adult , all , FALSE ," 3,223.17 ", 1.95 ," 6,281.54 ", 1.00 ," 6,281.54 ", -   , 1.21 ," 7,595.50 "
+ Australia , breast cancer , adult , all , TRUE , 978.23 , 1.95 ," 1,906.45 ", 1.00 ," 1,906.45 ", 1.36 , -   ," 2,592.60 "
+ Australia , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.95 ," 5,517.81 ", 1.00 ," 5,517.81 ", -   , 1.21 ," 6,672.01 "
+ Australia , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.95 ," 7,865.10 ", 1.00 ," 7,865.10 ", 1.36 , -   ," 10,695.82 "
+ Australia , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.95 ," 21,955.35 ", 1.00 ," 21,955.35 ", -   , 1.21 ," 26,547.94 "
+ Australia , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.95 ," 4,389.06 ", 1.00 ," 4,389.06 ", 1.36 , -   ," 5,968.72 "
+ Australia , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.95 ," 5,333.60 ", 1.00 ," 5,333.60 ", -   , 1.21 ," 6,449.28 "
+ Australia , depression , adult , all , TRUE ," 3,851.24 ", 1.95 ," 7,505.57 ", 1.00 ," 7,505.57 ", 1.36 , -   ," 10,206.90 "
+ Australia , depression , adult , all , FALSE ," 13,347.28 ", 1.95 ," 26,012.11 ", 1.00 ," 26,012.11 ", -   , 1.21 ," 31,453.28 "
+ Australia , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.95 ," 4,030.80 ", 1.00 ," 4,030.80 ", 1.36 , -   ," 5,481.52 "
+ Australia , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.95 ," 9,237.06 ", 1.00 ," 9,237.06 ", -   , 1.21 ," 11,169.25 "
+ Australia , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.95 ," 11,460.96 ", 1.00 ," 11,460.96 ", 1.36 , -   ," 15,585.87 "
+ Australia , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.95 ," 29,490.18 ", 1.00 ," 29,490.18 ", -   , 1.21 ," 35,658.88 "
+ Australia , obesity , adult , all , TRUE , 622.31 , 1.95 ," 1,212.80 ", 1.00 ," 1,212.80 ", 1.36 , -   ," 1,649.29 "
+ Australia , obesity , adult , all , FALSE ," 2,789.36 ", 1.95 ," 5,436.11 ", 1.00 ," 5,436.11 ", -   , 1.21 ," 6,573.22 "
+ Australia , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.61 ," 2,214.03 ", 1.45 ," 3,207.80 ", 1.36 , -   ," 4,362.32 "
+ Australia , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.85 ," 4,352.03 ", 1.23 ," 5,345.68 ", -   , 0.78 ," 4,183.95 "
+ Australia , stroke , adult , all , TRUE ," 2,401.05 ", 1.95 ," 4,679.33 ", 1.00 ," 4,679.33 ", 1.36 , -   ," 6,363.47 "
+ Australia , stroke , adult , all , FALSE ," 52,088.29 ", 1.95 ," 101,513.30 ", 1.00 ," 101,513.30 ", -   , 1.21 ," 122,747.68 "
+ Canada , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.79 ," 11,298.74 ", 1.00 ," 11,298.74 ", 1.17 , -   ," 13,199.26 "
+ Canada , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.79 ," 27,064.43 ", 1.00 ," 27,064.43 ", -   , 1.07 ," 28,953.99 "
+ Canada , anxiety , adult , all , TRUE ," 1,481.42 ", 1.79 ," 2,646.99 ", 1.00 ," 2,646.99 ", 1.17 , -   ," 3,092.23 "
+ Canada , anxiety , adult , all , FALSE ," 3,223.17 ", 1.79 ," 5,759.13 ", 1.00 ," 5,759.13 ", -   , 1.07 ," 6,161.22 "
+ Canada , breast cancer , adult , all , TRUE , 978.23 , 1.79 ," 1,747.90 ", 1.00 ," 1,747.90 ", 1.17 , -   ," 2,041.91 "
+ Canada , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.79 ," 5,058.91 ", 1.00 ," 5,058.91 ", -   , 1.07 ," 5,412.11 "
+ Canada , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.79 ," 7,210.99 ", 1.00 ," 7,210.99 ", 1.17 , -   ," 8,423.92 "
+ Canada , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.79 ," 20,129.41 ", 1.00 ," 20,129.41 ", -   , 1.07 ," 21,534.79 "
+ Canada , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.79 ," 4,024.04 ", 1.00 ," 4,024.04 ", 1.17 , -   ," 4,700.90 "
+ Canada , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.79 ," 4,890.03 ", 1.00 ," 4,890.03 ", -   , 1.07 ," 5,231.44 "
+ Canada , depression , adult , all , TRUE ," 3,851.24 ", 1.79 ," 6,881.36 ", 1.00 ," 6,881.36 ", 1.17 , -   ," 8,038.85 "
+ Canada , depression , adult , all , FALSE ," 13,347.28 ", 1.79 ," 23,848.78 ", 1.00 ," 23,848.78 ", -   , 1.07 ," 25,513.84 "
+ Canada , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.79 ," 3,695.57 ", 1.00 ," 3,695.57 ", 1.17 , -   ," 4,317.19 "
+ Canada , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.79 ," 8,468.85 ", 1.00 ," 8,468.85 ", -   , 1.07 ," 9,060.12 "
+ Canada , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.79 ," 10,507.79 ", 1.00 ," 10,507.79 ", 1.17 , -   ," 12,275.27 "
+ Canada , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.79 ," 27,037.59 ", 1.00 ," 27,037.59 ", -   , 1.07 ," 28,925.28 "
+ Canada , obesity , adult , all , TRUE , 622.31 , 1.79 ," 1,111.93 ", 1.00 ," 1,111.93 ", 1.17 , -   ," 1,298.97 "
+ Canada , obesity , adult , all , FALSE ," 2,789.36 ", 1.79 ," 4,984.01 ", 1.00 ," 4,984.01 ", -   , 1.07 ," 5,331.97 "
+ Canada , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.62 ," 2,218.42 ", 1.40 ," 3,100.44 ", 1.17 , -   ," 3,621.95 "
+ Canada , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.71 ," 4,018.70 ", 1.22 ," 4,885.01 ", -   , 0.69 ," 3,379.55 "
+ Canada , stroke , adult , all , TRUE ," 2,401.05 ", 1.79 ," 4,290.17 ", 1.00 ," 4,290.17 ", 1.17 , -   ," 5,011.81 "
+ Canada , stroke , adult , all , FALSE ," 52,088.29 ", 1.79 ," 93,070.83 ", 1.00 ," 93,070.83 ", -   , 1.07 ," 99,568.77 "
+ Germany , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.20 ," 7,563.96 ", 1.00 ," 7,563.96 ", 1.27 , -   ," 9,592.51 "
+ Germany , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.20 ," 18,118.33 ", 1.00 ," 18,118.33 ", -   , 1.13 ," 20,490.34 "
+ Germany , anxiety , adult , all , TRUE ," 1,481.42 ", 1.20 ," 1,772.03 ", 1.00 ," 1,772.03 ", 1.27 , -   ," 2,247.27 "
+ Germany , anxiety , adult , all , FALSE ," 3,223.17 ", 1.20 ," 3,855.46 ", 1.00 ," 3,855.46 ", -   , 1.13 ," 4,360.21 "
+ Germany , breast cancer , adult , all , TRUE , 978.23 , 1.20 ," 1,170.14 ", 1.00 ," 1,170.14 ", 1.27 , -   ," 1,483.95 "
+ Germany , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.20 ," 3,386.70 ", 1.00 ," 3,386.70 ", -   , 1.13 ," 3,830.08 "
+ Germany , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.20 ," 4,827.41 ", 1.00 ," 4,827.41 ", 1.27 , -   ," 6,122.05 "
+ Germany , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.20 ," 13,475.67 ", 1.00 ," 13,475.67 ", -   , 1.13 ," 15,239.87 "
+ Germany , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.20 ," 2,693.90 ", 1.00 ," 2,693.90 ", 1.27 , -   ," 3,416.36 "
+ Germany , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.20 ," 3,273.64 ", 1.00 ," 3,273.64 ", -   , 1.13 ," 3,702.22 "
+ Germany , depression , adult , all , TRUE ," 3,851.24 ", 1.20 ," 4,606.74 ", 1.00 ," 4,606.74 ", 1.27 , -   ," 5,842.20 "
+ Germany , depression , adult , all , FALSE ," 13,347.28 ", 1.20 ," 15,965.61 ", 1.00 ," 15,965.61 ", -   , 1.13 ," 18,055.79 "
+ Germany , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.20 ," 2,474.01 ", 1.00 ," 2,474.01 ", 1.27 , -   ," 3,137.50 "
+ Germany , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.20 ," 5,669.49 ", 1.00 ," 5,669.49 ", -   , 1.13 ," 6,411.72 "
+ Germany , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.20 ," 7,034.46 ", 1.00 ," 7,034.46 ", 1.27 , -   ," 8,921.00 "
+ Germany , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.20 ," 18,100.37 ", 1.00 ," 18,100.37 ", -   , 1.13 ," 20,470.02 "
+ Germany , obesity , adult , all , TRUE , 622.31 , 1.20 , 744.39 , 1.00 , 744.39 , 1.27 , -   , 944.02 
+ Germany , obesity , adult , all , FALSE ," 2,789.36 ", 1.20 ," 3,336.55 ", 1.00 ," 3,336.55 ", -   , 1.13 ," 3,773.36 "
+ Germany , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.14 ," 1,568.56 ", 1.35 ," 2,118.62 ", 1.27 , -   ," 2,686.80 "
+ Germany , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.14 ," 2,683.55 ", 1.21 ," 3,247.68 ", -   , 0.73 ," 2,376.94 "
+ Germany , stroke , adult , all , TRUE ," 2,401.05 ", 1.20 ," 2,872.06 ", 1.00 ," 2,872.06 ", 1.27 , -   ," 3,642.31 "
+ Germany , stroke , adult , all , FALSE ," 52,088.29 ", 1.20 ," 62,306.45 ", 1.00 ," 62,306.45 ", -   , 1.13 ," 70,463.44 "
+ Ireland , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.20 ," 7,563.96 ", 1.00 ," 7,563.96 ", 1.18 , -   ," 8,959.57 "
+ Ireland , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.20 ," 18,118.33 ", 1.00 ," 18,118.33 ", -   , 1.19 ," 21,639.88 "
+ Ireland , anxiety , adult , all , TRUE ," 1,481.42 ", 1.20 ," 1,772.03 ", 1.00 ," 1,772.03 ", 1.18 , -   ," 2,098.99 "
+ Ireland , anxiety , adult , all , FALSE ," 3,223.17 ", 1.20 ," 3,855.46 ", 1.00 ," 3,855.46 ", -   , 1.19 ," 4,604.82 "
+ Ireland , breast cancer , adult , all , TRUE , 978.23 , 1.20 ," 1,170.14 ", 1.00 ," 1,170.14 ", 1.18 , -   ," 1,386.03 "
+ Ireland , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.20 ," 3,386.70 ", 1.00 ," 3,386.70 ", -   , 1.19 ," 4,044.95 "
+ Ireland , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.20 ," 4,827.41 ", 1.00 ," 4,827.41 ", 1.18 , -   ," 5,718.10 "
+ Ireland , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.20 ," 13,475.67 ", 1.00 ," 13,475.67 ", -   , 1.19 ," 16,094.86 "
+ Ireland , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.20 ," 2,693.90 ", 1.00 ," 2,693.90 ", 1.18 , -   ," 3,190.94 "
+ Ireland , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.20 ," 3,273.64 ", 1.00 ," 3,273.64 ", -   , 1.19 ," 3,909.92 "
+ Ireland , depression , adult , all , TRUE ," 3,851.24 ", 1.20 ," 4,606.74 ", 1.00 ," 4,606.74 ", 1.18 , -   ," 5,456.71 "
+ Ireland , depression , adult , all , FALSE ," 13,347.28 ", 1.20 ," 15,965.61 ", 1.00 ," 15,965.61 ", -   , 1.19 ," 19,068.75 "
+ Ireland , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.20 ," 2,474.01 ", 1.00 ," 2,474.01 ", 1.18 , -   ," 2,930.48 "
+ Ireland , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.20 ," 5,669.49 ", 1.00 ," 5,669.49 ", -   , 1.19 ," 6,771.43 "
+ Ireland , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.20 ," 7,034.46 ", 1.00 ," 7,034.46 ", 1.18 , -   ," 8,332.37 "
+ Ireland , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.20 ," 18,100.37 ", 1.00 ," 18,100.37 ", -   , 1.19 ," 21,618.43 "
+ Ireland , obesity , adult , all , TRUE , 622.31 , 1.20 , 744.39 , 1.00 , 744.39 , 1.18 , -   , 881.73 
+ Ireland , obesity , adult , all , FALSE ," 2,789.36 ", 1.20 ," 3,336.55 ", 1.00 ," 3,336.55 ", -   , 1.19 ," 3,985.06 "
+ Ireland , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.14 ," 1,568.56 ", 1.28 ," 2,008.79 ", 1.18 , -   ," 2,379.42 "
+ Ireland , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.14 ," 2,683.55 ", 1.21 ," 3,247.84 ", -   , 0.77 ," 2,505.10 "
+ Ireland , stroke , adult , all , TRUE ," 2,401.05 ", 1.20 ," 2,872.06 ", 1.00 ," 2,872.06 ", 1.18 , -   ," 3,401.98 "
+ Ireland , stroke , adult , all , FALSE ," 52,088.29 ", 1.20 ," 62,306.45 ", 1.00 ," 62,306.45 ", -   , 1.19 ," 74,416.57 "
+ KSA , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 4.87 ," 30,810.35 ", 1.00 ," 30,810.35 ", 0.34 , -   ," 10,537.75 "
+ KSA , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 4.87 ," 73,801.54 ", 1.00 ," 73,801.54 ", -   , 0.50 ," 36,844.08 "
+ KSA , anxiety , adult , all , TRUE ," 1,481.42 ", 4.87 ," 7,218.04 ", 1.00 ," 7,218.04 ", 0.34 , -   ," 2,468.71 "
+ KSA , anxiety , adult , all , FALSE ," 3,223.17 ", 4.87 ," 15,704.47 ", 1.00 ," 15,704.47 ", -   , 0.50 ," 7,840.17 "
+ KSA , breast cancer , adult , all , TRUE , 978.23 , 4.87 ," 4,766.32 ", 1.00 ," 4,766.32 ", 0.34 , -   ," 1,630.18 "
+ KSA , breast cancer , adult , all , FALSE ," 2,831.29 ", 4.87 ," 13,795.07 ", 1.00 ," 13,795.07 ", -   , 0.50 ," 6,886.94 "
+ KSA , colon cancer , adult , all , TRUE ," 4,035.72 ", 4.87 ," 19,663.52 ", 1.00 ," 19,663.52 ", 0.34 , -   ," 6,725.31 "
+ KSA , colon cancer , adult , all , FALSE ," 11,265.68 ", 4.87 ," 54,890.55 ", 1.00 ," 54,890.55 ", -   , 0.50 ," 27,403.11 "
+ KSA , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 4.87 ," 10,973.07 ", 1.00 ," 10,973.07 ", 0.34 , -   ," 3,753.01 "
+ KSA , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 4.87 ," 13,334.54 ", 1.00 ," 13,334.54 ", -   , 0.50 ," 6,657.03 "
+ KSA , depression , adult , all , TRUE ," 3,851.24 ", 4.87 ," 18,764.67 ", 1.00 ," 18,764.67 ", 0.34 , -   ," 6,417.89 "
+ KSA , depression , adult , all , FALSE ," 13,347.28 ", 4.87 ," 65,032.85 ", 1.00 ," 65,032.85 ", -   , 0.50 ," 32,466.47 "
+ KSA , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 4.87 ," 10,077.39 ", 1.00 ," 10,077.39 ", 0.34 , -   ," 3,446.66 "
+ KSA , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 4.87 ," 23,093.56 ", 1.00 ," 23,093.56 ", -   , 0.50 ," 11,529.04 "
+ KSA , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 4.87 ," 28,653.52 ", 1.00 ," 28,653.52 ", 0.34 , -   ," 9,800.07 "
+ KSA , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 4.87 ," 73,728.36 ", 1.00 ," 73,728.36 ", -   , 0.50 ," 36,807.55 "
+ KSA , obesity , adult , all , TRUE , 622.31 , 4.87 ," 3,032.11 ", 1.00 ," 3,032.11 ", 0.34 , -   ," 1,037.04 "
+ KSA , obesity , adult , all , FALSE ," 2,789.36 ", 4.87 ," 13,590.80 ", 1.00 ," 13,590.80 ", -   , 0.50 ," 6,784.96 "
+ KSA , osteoporosis , adult , all , TRUE ," 1,371.00 ", 5.98 ," 8,198.44 ", 1.35 ," 11,088.79 ", 0.34 , -   ," 3,792.58 "
+ KSA , osteoporosis , adult , all , FALSE ," 2,356.00 ", 4.94 ," 11,640.53 ", 1.11 ," 12,909.16 ", -   , 0.26 ," 3,408.08 "
+ KSA , stroke , adult , all , TRUE ," 2,401.05 ", 4.87 ," 11,698.80 ", 1.00 ," 11,698.80 ", 0.34 , -   ," 4,001.22 "
+ KSA , stroke , adult , all , FALSE ," 52,088.29 ", 4.87 ," 253,793.30 ", 1.00 ," 253,793.30 ", -   , 0.50 ," 126,701.69 "
+ Newzealand , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 2.14 ," 13,556.54 ", 1.00 ," 13,556.54 ", 0.97 , -   ," 13,205.41 "
+ Newzealand , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 2.14 ," 32,472.65 ", 1.00 ," 32,472.65 ", -   , 1.02 ," 33,173.42 "
+ Newzealand , anxiety , adult , all , TRUE ," 1,481.42 ", 2.14 ," 3,175.94 ", 1.00 ," 3,175.94 ", 0.97 , -   ," 3,093.67 "
+ Newzealand , anxiety , adult , all , FALSE ," 3,223.17 ", 2.14 ," 6,909.96 ", 1.00 ," 6,909.96 ", -   , 1.02 ," 7,059.08 "
+ Newzealand , breast cancer , adult , all , TRUE , 978.23 , 2.14 ," 2,097.18 ", 1.00 ," 2,097.18 ", 0.97 , -   ," 2,042.86 "
+ Newzealand , breast cancer , adult , all , FALSE ," 2,831.29 ", 2.14 ," 6,069.82 ", 1.00 ," 6,069.82 ", -   , 1.02 ," 6,200.81 "
+ Newzealand , colon cancer , adult , all , TRUE ," 4,035.72 ", 2.14 ," 8,651.94 ", 1.00 ," 8,651.94 ", 0.97 , -   ," 8,427.84 "
+ Newzealand , colon cancer , adult , all , FALSE ," 11,265.68 ", 2.14 ," 24,151.82 ", 1.00 ," 24,151.82 ", -   , 1.02 ," 24,673.03 "
+ Newzealand , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 2.14 ," 4,828.15 ", 1.00 ," 4,828.15 ", 0.97 , -   ," 4,703.09 "
+ Newzealand , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 2.14 ," 5,867.19 ", 1.00 ," 5,867.19 ", -   , 1.02 ," 5,993.81 "
+ Newzealand , depression , adult , all , TRUE ," 3,851.24 ", 2.14 ," 8,256.45 ", 1.00 ," 8,256.45 ", 0.97 , -   ," 8,042.59 "
+ Newzealand , depression , adult , all , FALSE ," 13,347.28 ", 2.14 ," 28,614.43 ", 1.00 ," 28,614.43 ", -   , 1.02 ," 29,231.94 "
+ Newzealand , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 2.14 ," 4,434.05 ", 1.00 ," 4,434.05 ", 0.97 , -   ," 4,319.20 "
+ Newzealand , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 2.14 ," 10,161.16 ", 1.00 ," 10,161.16 ", -   , 1.02 ," 10,380.44 "
+ Newzealand , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 2.14 ," 12,607.54 ", 1.00 ," 12,607.54 ", 0.97 , -   ," 12,280.98 "
+ Newzealand , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 2.14 ," 32,440.45 ", 1.00 ," 32,440.45 ", -   , 1.02 ," 33,140.53 "
+ Newzealand , obesity , adult , all , TRUE , 622.31 , 2.14 ," 1,334.13 ", 1.00 ," 1,334.13 ", 0.97 , -   ," 1,299.57 "
+ Newzealand , obesity , adult , all , FALSE ," 2,789.36 ", 2.14 ," 5,979.95 ", 1.00 ," 5,979.95 ", -   , 1.02 ," 6,109.00 "
+ Newzealand , osteoporosis , adult , all , TRUE ," 1,371.00 ", 2.12 ," 2,904.19 ", 1.42 ," 4,121.07 ", 0.97 , -   ," 4,014.33 "
+ Newzealand , osteoporosis , adult , all , FALSE ," 2,356.00 ", 2.00 ," 4,718.81 ", 1.25 ," 5,913.62 ", -   ,,
+ Newzealand , stroke , adult , all , TRUE ," 2,401.05 ", 2.14 ," 5,147.47 ", 1.00 ," 5,147.47 ", 0.97 , -   ," 5,014.14 "
+ Newzealand , stroke , adult , all , FALSE ," 52,088.29 ", 2.14 ," 111,668.96 ", 1.00 ," 111,668.96 ", -   , 1.02 ," 114,078.82 "
+ Singapore , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.71 ," 10,787.17 ", 1.00 ," 10,787.17 ", 0.82 , -   ," 8,866.40 "
+ Singapore , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.71 ," 25,839.04 ", 1.00 ," 25,839.04 ", -   , 1.32 ," 34,001.25 "
+ Singapore , anxiety , adult , all , TRUE ," 1,481.42 ", 1.71 ," 2,527.15 ", 1.00 ," 2,527.15 ", 0.82 , -   ," 2,077.16 "
+ Singapore , anxiety , adult , all , FALSE ," 3,223.17 ", 1.71 ," 5,498.37 ", 1.00 ," 5,498.37 ", -   , 1.32 ," 7,235.24 "
+ Singapore , breast cancer , adult , all , TRUE , 978.23 , 1.71 ," 1,668.76 ", 1.00 ," 1,668.76 ", 0.82 , -   ," 1,371.62 "
+ Singapore , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.71 ," 4,829.86 ", 1.00 ," 4,829.86 ", -   , 1.32 ," 6,355.55 "
+ Singapore , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.71 ," 6,884.50 ", 1.00 ," 6,884.50 ", 0.82 , -   ," 5,658.64 "
+ Singapore , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.71 ," 19,218.02 ", 1.00 ," 19,218.02 ", -   , 1.32 ," 25,288.73 "
+ Singapore , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.71 ," 3,841.84 ", 1.00 ," 3,841.84 ", 0.82 , -   ," 3,157.76 "
+ Singapore , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.71 ," 4,668.62 ", 1.00 ," 4,668.62 ", -   , 1.32 ," 6,143.38 "
+ Singapore , depression , adult , all , TRUE ," 3,851.24 ", 1.71 ," 6,569.80 ", 1.00 ," 6,569.80 ", 0.82 , -   ," 5,399.97 "
+ Singapore , depression , adult , all , FALSE ," 13,347.28 ", 1.71 ," 22,768.99 ", 1.00 ," 22,768.99 ", -   , 1.32 ," 29,961.41 "
+ Singapore , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.71 ," 3,528.25 ", 1.00 ," 3,528.25 ", 0.82 , -   ," 2,900.00 "
+ Singapore , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.71 ," 8,085.41 ", 1.00 ," 8,085.41 ", -   , 1.32 ," 10,639.48 "
+ Singapore , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.71 ," 10,032.03 ", 1.00 ," 10,032.03 ", 0.82 , -   ," 8,245.72 "
+ Singapore , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.71 ," 25,813.42 ", 1.00 ," 25,813.42 ", -   , 1.32 ," 33,967.54 "
+ Singapore , obesity , adult , all , TRUE , 622.31 , 1.71 ," 1,061.59 ", 1.00 ," 1,061.59 ", 0.82 , -   , 872.56 
+ Singapore , obesity , adult , all , FALSE ," 2,789.36 ", 1.71 ," 4,758.35 ", 1.00 ," 4,758.35 ", -   , 1.32 ," 6,261.44 "
+ Singapore , osteoporosis , adult , all , TRUE ," 1,371.00 ", 2.07 ," 2,841.67 ", 1.34 ," 3,818.22 ", 0.82 , -   ," 3,138.34 "
+ Singapore , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.81 ," 4,269.59 ", 1.17 ," 4,990.84 ", -   , 0.85 ," 4,249.18 "
+ Singapore , stroke , adult , all , TRUE ," 2,401.05 ", 1.71 ," 4,095.93 ", 1.00 ," 4,095.93 ", 0.82 , -   ," 3,366.60 "
+ Singapore , stroke , adult , all , FALSE ," 52,088.29 ", 1.71 ," 88,856.89 ", 1.00 ," 88,856.89 ", -   , 1.32 ," 116,925.60 "
+ Spain , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.20 ," 7,563.96 ", 1.00 ," 7,563.96 ", 0.56 , -   ," 4,241.51 "
+ Spain , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.20 ," 18,118.33 ", 1.00 ," 18,118.33 ", -   , 0.69 ," 12,500.27 "
+ Spain , anxiety , adult , all , TRUE ," 1,481.42 ", 1.20 ," 1,772.03 ", 1.00 ," 1,772.03 ", 0.56 , -   , 993.67 
+ Spain , anxiety , adult , all , FALSE ," 3,223.17 ", 1.20 ," 3,855.46 ", 1.00 ," 3,855.46 ", -   , 0.69 ," 2,659.97 "
+ Spain , breast cancer , adult , all , TRUE , 978.23 , 1.20 ," 1,170.14 ", 1.00 ," 1,170.14 ", 0.56 , -   , 656.16 
+ Spain , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.20 ," 3,386.70 ", 1.00 ," 3,386.70 ", -   , 0.69 ," 2,336.56 "
+ Spain , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.20 ," 4,827.41 ", 1.00 ," 4,827.41 ", 0.56 , -   ," 2,706.98 "
+ Spain , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.20 ," 13,475.67 ", 1.00 ," 13,475.67 ", -   , 0.69 ," 9,297.18 "
+ Spain , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.20 ," 2,693.90 ", 1.00 ," 2,693.90 ", 0.56 , -   ," 1,510.61 "
+ Spain , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.20 ," 3,273.64 ", 1.00 ," 3,273.64 ", -   , 0.69 ," 2,258.56 "
+ Spain , depression , adult , all , TRUE ," 3,851.24 ", 1.20 ," 4,606.74 ", 1.00 ," 4,606.74 ", 0.56 , -   ," 2,583.24 "
+ Spain , depression , adult , all , FALSE ," 13,347.28 ", 1.20 ," 15,965.61 ", 1.00 ," 15,965.61 ", -   , 0.69 ," 11,015.05 "
+ Spain , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.20 ," 2,474.01 ", 1.00 ," 2,474.01 ", 0.56 , -   ," 1,387.30 "
+ Spain , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.20 ," 5,669.49 ", 1.00 ," 5,669.49 ", -   , 0.69 ," 3,911.51 "
+ Spain , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.20 ," 7,034.46 ", 1.00 ," 7,034.46 ", 0.56 , -   ," 3,944.59 "
+ Spain , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.20 ," 18,100.37 ", 1.00 ," 18,100.37 ", -   , 0.69 ," 12,487.87 "
+ Spain , obesity , adult , all , TRUE , 622.31 , 1.20 , 744.39 , 1.00 , 744.39 , 0.56 , -   , 417.42 
+ Spain , obesity , adult , all , FALSE ," 2,789.36 ", 1.20 ," 3,336.55 ", 1.00 ," 3,336.55 ", -   , 0.69 ," 2,301.97 "
+ Spain , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.14 ," 1,568.56 ", 1.32 ," 2,073.51 ", 0.56 , -   ," 1,162.73 "
+ Spain , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.14 ," 2,683.55 ", 1.19 ," 3,205.10 ", -   , 0.45 ," 1,432.35 "
+ Spain , stroke , adult , all , TRUE ," 2,401.05 ", 1.20 ," 2,872.06 ", 1.00 ," 2,872.06 ", 0.56 , -   ," 1,610.52 "
+ Spain , stroke , adult , all , FALSE ," 52,088.29 ", 1.20 ," 62,306.45 ", 1.00 ," 62,306.45 ", -   , 0.69 ," 42,986.68 "
+ America , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 1.30 ," 8,214.35 ", 1.00 ," 8,214.35 ", 2.59 , -   ," 21,275.41 "
+ America , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 1.30 ," 19,676.23 ", 1.00 ," 19,676.23 ", -   , 1.55 ," 30,411.87 "
+ America , anxiety , adult , all , TRUE ," 1,481.42 ", 1.30 ," 1,924.40 ", 1.00 ," 1,924.40 ", 2.59 , -   ," 4,984.26 "
+ America , anxiety , adult , all , FALSE ," 3,223.17 ", 1.30 ," 4,186.97 ", 1.00 ," 4,186.97 ", -   , 1.55 ," 6,471.44 "
+ America , breast cancer , adult , all , TRUE , 978.23 , 1.30 ," 1,270.75 ", 1.00 ," 1,270.75 ", 2.59 , -   ," 3,291.28 "
+ America , breast cancer , adult , all , FALSE ," 2,831.29 ", 1.30 ," 3,677.90 ", 1.00 ," 3,677.90 ", -   , 1.55 ," 5,684.62 "
+ America , colon cancer , adult , all , TRUE ," 4,035.72 ", 1.30 ," 5,242.49 ", 1.00 ," 5,242.49 ", 2.59 , -   ," 13,578.21 "
+ America , colon cancer , adult , all , FALSE ," 11,265.68 ", 1.30 ," 14,634.37 ", 1.00 ," 14,634.37 ", -   , 1.55 ," 22,619.10 "
+ America , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 1.30 ," 2,925.53 ", 1.00 ," 2,925.53 ", 2.59 , -   ," 7,577.21 "
+ America , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 1.30 ," 3,555.12 ", 1.00 ," 3,555.12 ", -   , 1.55 ," 5,494.85 "
+ America , depression , adult , all , TRUE ," 3,851.24 ", 1.30 ," 5,002.85 ", 1.00 ," 5,002.85 ", 2.59 , -   ," 12,957.53 "
+ America , depression , adult , all , FALSE ," 13,347.28 ", 1.30 ," 17,338.41 ", 1.00 ," 17,338.41 ", -   , 1.55 ," 26,798.50 "
+ America , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 1.30 ," 2,686.73 ", 1.00 ," 2,686.73 ", 2.59 , -   ," 6,958.72 "
+ America , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 1.30 ," 6,156.97 ", 1.00 ," 6,156.97 ", -   , 1.55 ," 9,516.31 "
+ America , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 1.30 ," 7,639.31 ", 1.00 ," 7,639.31 ", 2.59 , -   ," 19,786.05 "
+ America , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 1.30 ," 19,656.72 ", 1.00 ," 19,656.72 ", -   , 1.55 ," 30,381.72 "
+ America , obesity , adult , all , TRUE , 622.31 , 1.30 , 808.39 , 1.00 , 808.39 , 2.59 , -   ," 2,093.76 "
+ America , obesity , adult , all , FALSE ," 2,789.36 ", 1.30 ," 3,623.44 ", 1.00 ," 3,623.44 ", -   , 1.55 ," 5,600.45 "
+ America , osteoporosis , adult , all , TRUE ," 1,371.00 ", 1.60 ," 2,190.73 ", 1.44 ," 3,162.33 ", 2.59 , -   ," 8,190.52 "
+ America , osteoporosis , adult , all , FALSE ," 2,356.00 ", 1.32 ," 3,106.91 ", 1.25 ," 3,878.12 ", -   , 1.00 ," 3,878.12 "
+ America , stroke , adult , all , TRUE ," 2,401.05 ", 1.30 ," 3,119.02 ", 1.00 ," 3,119.02 ", 2.59 , -   ," 8,078.35 "
+ America , stroke , adult , all , FALSE ," 52,088.29 ", 1.30 ," 67,663.82 ", 1.00 ," 67,663.82 ", -   , 1.55 ," 104,582.23 "
+ Japan , alzheimer and other dementia , adult , all , TRUE ," 6,323.49 ", 194.26 ," 1,228,425.86 ", 1.00 ," 1,228,425.86 ", 0.91 , -   ," 1,113,746.18 "
+ Japan , alzheimer and other dementia , adult , all , FALSE ," 15,146.96 ", 194.26 ," 2,942,508.46 ", 1.00 ," 2,942,508.46 ", -   , 0.89 ," 2,608,224.07 "
+ Japan , anxiety , adult , all , TRUE ," 1,481.42 ", 194.26 ," 287,787.37 ", 1.00 ," 287,787.37 ", 0.91 , -   ," 260,920.98 "
+ Japan , anxiety , adult , all , FALSE ," 3,223.17 ", 194.26 ," 626,146.06 ", 1.00 ," 626,146.06 ", -   , 0.89 ," 555,012.59 "
+ Japan , breast cancer , adult , all , TRUE , 978.23 , 194.26 ," 190,035.81 ", 1.00 ," 190,035.81 ", 0.91 , -   ," 172,295.02 "
+ Japan , breast cancer , adult , all , FALSE ," 2,831.29 ", 194.26 ," 550,017.02 ", 1.00 ," 550,017.02 ", -   , 0.89 ," 487,532.20 "
+ Japan , colon cancer , adult , all , TRUE ," 4,035.72 ", 194.26 ," 783,995.61 ", 1.00 ," 783,995.61 ", 0.91 , -   ," 710,805.71 "
+ Japan , colon cancer , adult , all , FALSE ," 11,265.68 ", 194.26 ," 2,188,516.81 ", 1.00 ," 2,188,516.81 ", -   , 0.89 ," 1,939,889.83 "
+ Japan , coronary heart disease , adult , all , TRUE ," 2,252.10 ", 194.26 ," 437,502.55 ", 1.00 ," 437,502.55 ", 0.91 , -   ," 396,659.51 "
+ Japan , coronary heart disease , adult , all , FALSE ," 2,736.77 ", 194.26 ," 531,655.40 ", 1.00 ," 531,655.40 ", -   , 0.89 ," 471,256.56 "
+ Japan , depression , adult , all , TRUE ," 3,851.24 ", 194.26 ," 748,157.75 ", 1.00 ," 748,157.75 ", 0.91 , -   ," 678,313.49 "
+ Japan , depression , adult , all , FALSE ," 13,347.28 ", 194.26 ," 2,592,895.89 ", 1.00 ," 2,592,895.89 ", -   , 0.89 ," 2,298,329.32 "
+ Japan , diabetes (type 2) , adult , all , TRUE ," 2,068.27 ", 194.26 ," 401,791.01 ", 1.00 ," 401,791.01 ", 0.91 , -   ," 364,281.81 "
+ Japan , diabetes (type 2) , adult , all , FALSE ," 4,739.70 ", 194.26 ," 920,753.00 ", 1.00 ," 920,753.00 ", -   , 0.89 ," 816,150.63 "
+ Japan , endometrial uterine cancer , adult , all , TRUE ," 5,880.82 ", 194.26 ," 1,142,431.84 ", 1.00 ," 1,142,431.84 ", 0.91 , -   ," 1,035,780.13 "
+ Japan , endometrial uterine cancer , adult , all , FALSE ," 15,131.94 ", 194.26 ," 2,939,590.71 ", 1.00 ," 2,939,590.71 ", -   , 0.89 ," 2,605,637.80 "
+ Japan , obesity , adult , all , TRUE , 622.31 , 194.26 ," 120,892.01 ", 1.00 ," 120,892.01 ", 0.91 , -   ," 109,606.14 "
+ Japan , obesity , adult , all , FALSE ," 2,789.36 ", 194.26 ," 541,872.77 ", 1.00 ," 541,872.77 ", -   , 0.89 ," 480,313.18 "
+ Japan , osteoporosis , adult , all , TRUE ," 1,371.00 ", 130.00 ," 178,230.00 ", 1.14 ," 203,530.79 ", 0.91 , -   ," 184,530.17 "
+ Japan , osteoporosis , adult , all , FALSE ," 2,356.00 ", 148.14 ," 349,015.50 ", 1.09 ," 382,087.54 ", -   , 0.57 ," 219,597.64 "
+ Japan , stroke , adult , all , TRUE ," 2,401.05 ", 194.26 ," 466,437.65 ", 1.00 ," 466,437.65 ", 0.91 , -   ," 422,893.37 "
+ Japan , stroke , adult , all , FALSE ," 52,088.29 ", 194.26 ," 10,118,879.51 ", 1.00 ," 10,118,879.51 ", -   , 0.89 ," 8,969,321.75 "
