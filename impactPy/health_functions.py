@@ -235,10 +235,10 @@ def find_health_outcomes(additional_active,
 
         # Print the input data for activity levels, population risk, cost per case, and relative risk
         print(f"Input Data for {geography}, disease {h} and gender {gender}:")
-        print(f"Population Rate: {pop_df['population_rate'].iloc[0]}")
+        print(f"Population Risk: {pop_df['population_rate'].iloc[0]}")
         print(f"Activity Rate: {activity_df['activity_rate'].values[0]}")
         print(f"Relative Risk: {risks_df['relative_risk'].iloc[0]}")
-        print(f"Cost per case: {cost_per_case.iloc[0,11]}\n")
+        print(f"Cost per case: {cost_per_case.iloc[0,14]}\n")
 
 
 
@@ -249,11 +249,11 @@ def find_health_outcomes(additional_active,
             'active_cases_saved': cases_saved,
             'active_dalys_saved': dalys_saved,
             'active_deaths_saved': deaths_saved,
-            'direct_cost_per_case': cost_per_case.iloc[0, 11],
-            'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case.iloc[0, 11],
-            'indirect_cost_per_case': indirect_cost_per_case.iloc[0, 11],
-            'indirect_cost_saving': (fairly_cases_saved + cases_saved) * indirect_cost_per_case.iloc[0, 11],
-            'total_saving': (fairly_cases_saved + cases_saved) * (cost_per_case.iloc[0, 11] + indirect_cost_per_case.iloc[0, 11])
+            'direct_cost_per_case': cost_per_case.iloc[0, 14],
+            'direct_cost_saving': (fairly_cases_saved + cases_saved) * cost_per_case.iloc[0, 14],
+            'indirect_cost_per_case': indirect_cost_per_case.iloc[0, 14],
+            'indirect_cost_saving': (fairly_cases_saved + cases_saved) * indirect_cost_per_case.iloc[0, 14],
+            'total_saving': (fairly_cases_saved + cases_saved) * (cost_per_case.iloc[0, 14] + indirect_cost_per_case.iloc[0, 14])
         }
 
         cases_saved_list.append(cases_saved_dict)
